@@ -196,7 +196,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Usuario afectado"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="2"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -220,7 +220,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Contexto del evento"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="3"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -244,7 +244,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Componente"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="4"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -268,7 +268,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Nombre evento"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="5"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -292,7 +292,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Descripción"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="6"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -316,7 +316,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Origen"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="7"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -340,7 +340,7 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="Dirección IP"/>
-                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="keep" type="xboolean" value="false"/>
                         <entry key="position" type="xint" value="8"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
@@ -374,7 +374,7 @@
                 <entry key="column_filter_mode" type="xstring" value="UNION"/>
                 <config key="unknown_columns_transformation">
                     <entry key="position" type="xint" value="9"/>
-                    <entry key="keep" type="xboolean" value="true"/>
+                    <entry key="keep" type="xboolean" value="false"/>
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
@@ -383,7 +383,7 @@
                 <config key="excel_reader">
                     <config key="settings">
                         <entry key="sheet_selection" type="xstring" value="FIRST"/>
-                        <entry key="sheet_name" type="xstring" value=""/>
+                        <entry key="sheet_name" type="xstring" value="Sheet1"/>
                         <entry key="sheet_index" type="xint" value="0"/>
                         <entry key="table_contains_column_names" type="xboolean" value="true"/>
                         <entry key="column_names_row_number" type="xlong" value="1"/>
@@ -478,7 +478,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 2999, Cols: 9"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2999, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

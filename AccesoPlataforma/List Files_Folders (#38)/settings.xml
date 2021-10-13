@@ -6,6 +6,8 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
+        <entry key="include_root_folder" type="xboolean" value="false"/>
         <config key="file_chooser_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -50,8 +52,6 @@
                 </config>
             </config>
         </config>
-        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
-        <entry key="include_root_folder" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -84,6 +84,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8a86d618-a6f6-448e-9717-cc93fd50ca00"/>
+        <entry key="file_store_id" type="xstring" value="35f8b8c9-6245-4c98-b87d-6d8ac9cd0993"/>
     </config>
 </config>
