@@ -8,14 +8,10 @@
         <entry key="authored-by" type="xstring" value="Yerffrey Romero"/>
         <entry key="authored-when" type="xstring" value="2021-10-07 20:29:18 -0300"/>
         <entry key="lastEdited-by" type="xstring" value="Yerffrey Romero"/>
-        <entry key="lastEdited-when" type="xstring" value="2021-10-12 19:10:06 -0300"/>
+        <entry key="lastEdited-when" type="xstring" value="2021-10-13 21:50:15 -0300"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="DB Merge 0:43: Error while adding rows #-1000 - #0, reason: Column 'map_start_date' cannot be null"/>
-    </config>
+    <entry key="state" type="xstring" value="IDLE"/>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_38">
@@ -248,7 +244,7 @@
         </config>
         <config key="connection_5">
             <entry key="sourceID" type="xint" value="45"/>
-            <entry key="destID" type="xint" value="41"/>
+            <entry key="destID" type="xint" value="46"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -258,7 +254,7 @@
         </config>
         <config key="connection_6">
             <entry key="sourceID" type="xint" value="45"/>
-            <entry key="destID" type="xint" value="46"/>
+            <entry key="destID" type="xint" value="41"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
