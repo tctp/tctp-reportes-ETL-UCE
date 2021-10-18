@@ -6,6 +6,8 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
+        <entry key="include_root_folder" type="xboolean" value="false"/>
         <config key="file_chooser_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -50,8 +52,6 @@
                 </config>
             </config>
         </config>
-        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
-        <entry key="include_root_folder" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -78,12 +78,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 22, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 37, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="20e759cb-2346-486f-b40f-e19ac6a3df49"/>
+        <entry key="file_store_id" type="xstring" value="20d8c756-a81b-440b-893e-7758df54c9dc"/>
     </config>
 </config>

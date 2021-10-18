@@ -14,20 +14,19 @@
                 <entry key="1" type="xstring" value="mcu_course_id"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="13"/>
-                <entry key="0" type="xstring" value="firstname"/>
-                <entry key="1" type="xstring" value="lastname"/>
-                <entry key="2" type="xstring" value="email"/>
-                <entry key="3" type="xstring" value="idnumber"/>
-                <entry key="4" type="xstring" value="course1"/>
-                <entry key="5" type="xstring" value="role1"/>
-                <entry key="6" type="xstring" value="course2"/>
-                <entry key="7" type="xstring" value="role2"/>
-                <entry key="8" type="xstring" value="courseName"/>
-                <entry key="9" type="xstring" value="courseShortName"/>
-                <entry key="10" type="xstring" value="courseStartDate"/>
-                <entry key="11" type="xstring" value="courseEndDate"/>
-                <entry key="12" type="xstring" value="courseType"/>
+                <entry key="array-size" type="xint" value="12"/>
+                <entry key="0" type="xstring" value="Nombre"/>
+                <entry key="1" type="xstring" value="Apellido"/>
+                <entry key="2" type="xstring" value="Correo"/>
+                <entry key="3" type="xstring" value="Rol_Curso"/>
+                <entry key="4" type="xstring" value="ID_Curso"/>
+                <entry key="5" type="xstring" value="Nombre_Curso"/>
+                <entry key="6" type="xstring" value="URL_Curso"/>
+                <entry key="7" type="xstring" value="courseName"/>
+                <entry key="8" type="xstring" value="courseShortName"/>
+                <entry key="9" type="xstring" value="courseStartDate"/>
+                <entry key="10" type="xstring" value="courseEndDate"/>
+                <entry key="11" type="xstring" value="courseType"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -69,12 +68,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 4284, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 4466, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="38b550ea-7d3a-47a0-95b9-36c4d497311c"/>
+        <entry key="file_store_id" type="xstring" value="84aba698-e869-4081-b463-ea79042336a7"/>
     </config>
 </config>

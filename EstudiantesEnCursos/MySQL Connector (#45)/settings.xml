@@ -6,16 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="authentication_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <config key="authentication">
-            <entry key="credentials" type="xstring" isnull="true" value=""/>
-            <entry key="username" type="xstring" value="bibliotecas"/>
-            <entry key="password" type="xpassword" value="015E3AFC3105B6D588CBB5FC85FA36D1BC"/>
-            <entry key="selectedType" type="xstring" value="USER_PWD"/>
-        </config>
         <config key="session_info">
             <entry key="version" type="xint" value="2"/>
             <entry key="db_type" type="xstring" value="mysql"/>
@@ -27,6 +17,16 @@
             <entry key="host" type="xstring" value="localhost"/>
             <entry key="port" type="xint" value="3306"/>
             <entry key="database_name" type="xstring" value="bibliotecas"/>
+        </config>
+        <config key="authentication_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="authentication">
+            <entry key="credentials" type="xstring" isnull="true" value=""/>
+            <entry key="username" type="xstring" value="bibliotecas"/>
+            <entry key="password" type="xpassword" value="015E3AFC3105B6D588CBB5FC85FA36D1BC"/>
+            <entry key="selectedType" type="xstring" value="USER_PWD"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
@@ -933,7 +933,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 25c91943-1e16-4fc4-bc0a-19b23a184b67"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 66fb7ed9-8051-4019-8e9d-83e11f5253f4"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -941,6 +941,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="70a6327e-9220-45e2-b2dd-204f7275fc59"/>
+        <entry key="file_store_id" type="xstring" value="a3c11ec1-ec02-4e60-9a79-6ff6c8b2fbda"/>
     </config>
 </config>

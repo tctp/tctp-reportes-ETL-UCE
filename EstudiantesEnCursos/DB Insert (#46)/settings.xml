@@ -15,6 +15,31 @@
             <entry key="schema" type="xstring" value="bibliotecas"/>
             <entry key="table" type="xstring" value="mv_cursos_usuarios"/>
         </config>
+        <config key="failOnError_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="failOnError" type="xboolean" value="true"/>
+        <config key="batchSize_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="batchSize" type="xint" value="1000"/>
+        <config key="disableDbDataPort_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="disableDbDataPort" type="xboolean" value="false"/>
+        <config key="showStatus_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="showStatus" type="xboolean" value="true"/>
+        <config key="knime_to_external_mapping_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="knime_to_external_mapping"/>
         <config key="setColumns">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
@@ -42,31 +67,6 @@
                 </config>
             </config>
         </config>
-        <config key="knime_to_external_mapping_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <config key="knime_to_external_mapping"/>
-        <config key="batchSize_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="batchSize" type="xint" value="1000"/>
-        <config key="failOnError_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="failOnError" type="xboolean" value="true"/>
-        <config key="showStatus_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="showStatus" type="xboolean" value="true"/>
-        <config key="disableDbDataPort_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="disableDbDataPort" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -89,14 +89,14 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 4284, Cols: 4"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 4466, Cols: 4"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBDataPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBDataPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 25c91943-1e16-4fc4-bc0a-19b23a184b67"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 66fb7ed9-8051-4019-8e9d-83e11f5253f4"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
@@ -104,6 +104,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="d40177a5-0717-4deb-91f2-61acd147e923"/>
+        <entry key="file_store_id" type="xstring" value="727a1b2d-3bc0-48df-a383-48ad2ad5b18d"/>
     </config>
 </config>

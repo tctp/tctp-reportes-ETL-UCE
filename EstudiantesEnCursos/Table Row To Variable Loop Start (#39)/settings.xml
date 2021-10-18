@@ -24,19 +24,19 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="35"/>
+            <entry key="value" type="xint" value="37"/>
         </config>
         <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="34"/>
+            <entry key="value" type="xint" value="36"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row34"/>
+            <entry key="value" type="xstring" value="Row36"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
@@ -44,7 +44,7 @@
             <entry key="class" type="xstring" value="FSLocation"/>
             <entry key="location_present" type="xboolean" value="true"/>
             <entry key="file_system_type" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\VFEnrollCursoC.csv"/>
+            <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\cur-10831_users_20211017.xls"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -142,6 +142,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="12c6e868-380b-49aa-926c-d7dd9990c0ca"/>
+        <entry key="file_store_id" type="xstring" value="2d777f34-eef6-4f6f-b2f8-9a1e73488004"/>
     </config>
 </config>

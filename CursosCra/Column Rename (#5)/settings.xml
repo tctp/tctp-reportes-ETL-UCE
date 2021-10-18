@@ -32,6 +32,11 @@
                 <entry key="new_column_name" type="xstring" value="mcm_id_moodle"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
+            <config key="5">
+                <entry key="old_column_name" type="xstring" value="courseType"/>
+                <entry key="new_column_name" type="xstring" value="mcm_course_type"/>
+                <entry key="new_column_type" type="xint" value="0"/>
+            </config>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -55,12 +60,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 24, Cols: 5"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 36, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="f288157f-3bbf-4b46-9fa4-362577df8cee"/>
+        <entry key="file_store_id" type="xstring" value="d317db23-a7fc-4b2c-a5ab-7c509ef43d6f"/>
     </config>
 </config>

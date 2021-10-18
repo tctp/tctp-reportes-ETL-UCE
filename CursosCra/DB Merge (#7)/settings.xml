@@ -15,62 +15,6 @@
             <entry key="schema" type="xstring" value="bibliotecas"/>
             <entry key="table" type="xstring" value="ma_cursos_moodle"/>
         </config>
-        <config key="failOnError_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="failOnError" type="xboolean" value="true"/>
-        <config key="batchSize_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="batchSize" type="xint" value="1000"/>
-        <config key="disableDbDataPort_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="disableDbDataPort" type="xboolean" value="false"/>
-        <config key="showStatus_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="showStatus" type="xboolean" value="true"/>
-        <config key="knime_to_external_mapping_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <config key="knime_to_external_mapping"/>
-        <config key="setColumns">
-            <entry key="filter-type" type="xstring" value="STANDARD"/>
-            <config key="included_names">
-                <entry key="array-size" type="xint" value="4"/>
-                <entry key="0" type="xstring" value="mcm_id_moodle"/>
-                <entry key="1" type="xstring" value="mcm_course_name"/>
-                <entry key="2" type="xstring" value="mcm_start_date"/>
-                <entry key="3" type="xstring" value="mcm_end_date"/>
-            </config>
-            <config key="excluded_names">
-                <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="mcm_short_name"/>
-            </config>
-            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
-            <config key="name_pattern">
-                <entry key="pattern" type="xstring" value=""/>
-                <entry key="type" type="xstring" value="Wildcard"/>
-                <entry key="caseSensitive" type="xboolean" value="true"/>
-            </config>
-            <config key="datatype">
-                <config key="typelist">
-                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.time.localdate.LocalDateValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
-                </config>
-            </config>
-        </config>
         <config key="whereColumns">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
@@ -78,11 +22,12 @@
                 <entry key="0" type="xstring" value="mcm_short_name"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="4"/>
+                <entry key="array-size" type="xint" value="5"/>
                 <entry key="0" type="xstring" value="mcm_id_moodle"/>
                 <entry key="1" type="xstring" value="mcm_course_name"/>
                 <entry key="2" type="xstring" value="mcm_start_date"/>
                 <entry key="3" type="xstring" value="mcm_end_date"/>
+                <entry key="4" type="xstring" value="mcm_course_type"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -102,6 +47,63 @@
                 </config>
             </config>
         </config>
+        <config key="setColumns">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="mcm_id_moodle"/>
+                <entry key="1" type="xstring" value="mcm_course_name"/>
+                <entry key="2" type="xstring" value="mcm_start_date"/>
+                <entry key="3" type="xstring" value="mcm_end_date"/>
+                <entry key="4" type="xstring" value="mcm_course_type"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="mcm_short_name"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist">
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.time.localdate.LocalDateValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+                </config>
+            </config>
+        </config>
+        <config key="knime_to_external_mapping_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="knime_to_external_mapping"/>
+        <config key="batchSize_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="batchSize" type="xint" value="1000"/>
+        <config key="failOnError_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="failOnError" type="xboolean" value="true"/>
+        <config key="showStatus_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="showStatus" type="xboolean" value="true"/>
+        <config key="disableDbDataPort_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="disableDbDataPort" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -124,14 +126,14 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 24, Cols: 7"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 36, Cols: 8"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBDataPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBDataPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL a167fcf2-91bd-4ac2-bbc7-1c623bc0bdee"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 15a55a88-c31c-45d3-b306-95e475a2573b"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
@@ -139,6 +141,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e5cb4cdb-58b8-4eb3-88fb-8a56ed2fda8c"/>
+        <entry key="file_store_id" type="xstring" value="be082e9a-94d8-461c-b071-4f8da1beefe9"/>
     </config>
 </config>
