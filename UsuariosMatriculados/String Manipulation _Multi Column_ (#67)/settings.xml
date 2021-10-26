@@ -18,17 +18,16 @@
                 <entry key="5" type="xstring" value="miu_user_place"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="10"/>
-                <entry key="0" type="xstring" value="miu_user_rut"/>
-                <entry key="1" type="xstring" value="miu_user_email"/>
+                <entry key="array-size" type="xint" value="9"/>
+                <entry key="0" type="xstring" value="miu_user_email"/>
+                <entry key="1" type="xstring" value="miu_user_rut"/>
                 <entry key="2" type="xstring" value="miu_user_role"/>
-                <entry key="3" type="xstring" value="ID_Curso"/>
-                <entry key="4" type="xstring" value="Nombre_Curso"/>
-                <entry key="5" type="xstring" value="URL_Curso"/>
-                <entry key="6" type="xstring" value="RUT_compare"/>
-                <entry key="7" type="xstring" value="miu_user_enrolled_date"/>
-                <entry key="8" type="xstring" value="miu_user_birth_day"/>
-                <entry key="9" type="xstring" value="miu_user_place_rbd"/>
+                <entry key="3" type="xstring" value="RUT_compare"/>
+                <entry key="4" type="xstring" value="miu_user_enrolled_date"/>
+                <entry key="5" type="xstring" value="miu_user_birth_day"/>
+                <entry key="6" type="xstring" value="miu_user_place_rbd"/>
+                <entry key="7" type="xstring" value="firstname"/>
+                <entry key="8" type="xstring" value="lastname"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -39,9 +38,9 @@
             <config key="datatype">
                 <config key="typelist">
                     <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.time.localdatetime.LocalDateTimeValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
@@ -95,12 +94,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 22, Cols: 16"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2309, Cols: 13"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ea6150de-e4ac-46e1-a3ba-a40201b4df8e"/>
+        <entry key="file_store_id" type="xstring" value="dd175a39-4569-495b-a14f-c8b2ad120db9"/>
     </config>
 </config>

@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
     <entry key="node_file" type="xstring" value="settings.xml"/>
-    <config key="flow_stack"/>
+    <config key="flow_stack">
+        <config key="Variable_0">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="UCE"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="UCE"/>
+        </config>
+        <config key="Variable_1">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="3306"/>
+            <entry key="class" type="xstring" value="INTEGER"/>
+            <entry key="value" type="xint" value="3306"/>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="localhost"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="localhost"/>
+        </config>
+        <config key="Variable_3">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="VNJQSUNP"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="01B1EB3A1DBC8D36ADC4A80C152A7164CF"/>
+        </config>
+        <config key="Variable_4">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="yromero"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="yromero"/>
+        </config>
+    </config>
     <config key="internal_node_subsettings">
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <config key="authentication_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="authentication">
+            <entry key="credentials" type="xstring" isnull="true" value=""/>
+            <entry key="username" type="xstring" value="yromero"/>
+            <entry key="password" type="xpassword" value="01B1EB3A1DBC8D36ADC4A80C152A7164CF"/>
+            <entry key="selectedType" type="xstring" value="USER_PWD"/>
+        </config>
         <config key="session_info">
             <entry key="version" type="xint" value="2"/>
             <entry key="db_type" type="xstring" value="mysql"/>
@@ -16,17 +57,7 @@
         <config key="mysql-connection">
             <entry key="host" type="xstring" value="localhost"/>
             <entry key="port" type="xint" value="3306"/>
-            <entry key="database_name" type="xstring" value="bibliotecas"/>
-        </config>
-        <config key="authentication_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <config key="authentication">
-            <entry key="credentials" type="xstring" isnull="true" value=""/>
-            <entry key="username" type="xstring" value="bibliotecas"/>
-            <entry key="password" type="xpassword" value="015E3AFC3105B6D588CBB5FC85FA36D1BC"/>
-            <entry key="selectedType" type="xstring" value="USER_PWD"/>
+            <entry key="database_name" type="xstring" value="UCE"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
@@ -912,6 +943,35 @@
             </config>
         </config>
     </config>
+    <config key="variables">
+        <entry key="version" type="xstring" value="V_2019_09_13"/>
+        <config key="tree">
+            <config key="authentication">
+                <config key="username">
+                    <entry key="used_variable" type="xstring" isnull="true" value=""/>
+                    <entry key="exposed_variable" type="xstring" value="yromero"/>
+                </config>
+                <config key="password">
+                    <entry key="used_variable" type="xstring" isnull="true" value=""/>
+                    <entry key="exposed_variable" type="xstring" value="VNJQSUNP"/>
+                </config>
+            </config>
+            <config key="mysql-connection">
+                <config key="host">
+                    <entry key="used_variable" type="xstring" isnull="true" value=""/>
+                    <entry key="exposed_variable" type="xstring" value="localhost"/>
+                </config>
+                <config key="port">
+                    <entry key="used_variable" type="xstring" isnull="true" value=""/>
+                    <entry key="exposed_variable" type="xstring" value="3306"/>
+                </config>
+                <config key="database_name">
+                    <entry key="used_variable" type="xstring" isnull="true" value=""/>
+                    <entry key="exposed_variable" type="xstring" value="UCE"/>
+                </config>
+            </config>
+        </config>
+    </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.database.extension.mysql.node.connector.MySQLDBConnectorNodeFactory"/>
@@ -933,7 +993,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 66fb7ed9-8051-4019-8e9d-83e11f5253f4"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 8f2761e8-a798-42cc-9cc7-d5e10a330cf7"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -941,6 +1001,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="a3c11ec1-ec02-4e60-9a79-6ff6c8b2fbda"/>
+        <entry key="file_store_id" type="xstring" value="efd4c7e6-e650-46ff-9cb6-ccd6cf672cc9"/>
     </config>
 </config>

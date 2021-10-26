@@ -8,28 +8,28 @@
     <config key="model">
         <config key="all_columns">
             <config key="0">
-                <entry key="old_column_name" type="xstring" value="Rut"/>
-                <entry key="new_column_name" type="xstring" value="miu_user_rut"/>
+                <entry key="old_column_name" type="xstring" value="email"/>
+                <entry key="new_column_name" type="xstring" value="miu_user_email"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
             <config key="1">
-                <entry key="old_column_name" type="xstring" value="Rol_Curso"/>
-                <entry key="new_column_name" type="xstring" value="miu_user_role"/>
+                <entry key="old_column_name" type="xstring" value="idnumber"/>
+                <entry key="new_column_name" type="xstring" value="miu_user_rut"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
             <config key="2">
-                <entry key="old_column_name" type="xstring" value="Nombre"/>
+                <entry key="old_column_name" type="xstring" value="firstname"/>
                 <entry key="new_column_name" type="xstring" value="miu_user_name"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
             <config key="3">
-                <entry key="old_column_name" type="xstring" value="Apellido"/>
+                <entry key="old_column_name" type="xstring" value="lastname"/>
                 <entry key="new_column_name" type="xstring" value="miu_user_lastname"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
             <config key="4">
-                <entry key="old_column_name" type="xstring" value="Correo"/>
-                <entry key="new_column_name" type="xstring" value="miu_user_email"/>
+                <entry key="old_column_name" type="xstring" value="role1"/>
+                <entry key="new_column_name" type="xstring" value="miu_user_role"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
         </config>
@@ -55,12 +55,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 22, Cols: 16"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2309, Cols: 13"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3239f17c-6ca3-45d9-9ead-2357d0423b23"/>
+        <entry key="file_store_id" type="xstring" value="cb8581cd-29e7-447c-a2bd-18857093cf67"/>
     </config>
 </config>

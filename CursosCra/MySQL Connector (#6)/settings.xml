@@ -16,7 +16,7 @@
         <config key="mysql-connection">
             <entry key="host" type="xstring" value="localhost"/>
             <entry key="port" type="xint" value="3306"/>
-            <entry key="database_name" type="xstring" value="bibliotecas"/>
+            <entry key="database_name" type="xstring" value="UCE"/>
         </config>
         <config key="authentication_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
@@ -24,8 +24,8 @@
         </config>
         <config key="authentication">
             <entry key="credentials" type="xstring" isnull="true" value=""/>
-            <entry key="username" type="xstring" value="bibliotecas"/>
-            <entry key="password" type="xpassword" value="015E3AFC3105B6D588CBB5FC85FA36D1BC"/>
+            <entry key="username" type="xstring" value="yromero"/>
+            <entry key="password" type="xpassword" value="01B1EB3A1DBC8D36ADC4A80C152A7164CF"/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
@@ -933,7 +933,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 15a55a88-c31c-45d3-b306-95e475a2573b"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL a231d8a7-8199-4405-90ae-df53dab76283"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -941,6 +941,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="623e9bd0-1d4b-49c5-96eb-d4a2125adfca"/>
+        <entry key="file_store_id" type="xstring" value="d6d7bedf-364f-45b5-8eaa-c6600b3cc84c"/>
     </config>
 </config>

@@ -24,7 +24,7 @@
             <config key="path">
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\AccesoPlataforma"/>
+                <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\AccesoPlataforma\ReporteMegatutorAccesos"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -37,8 +37,8 @@
                     <entry key="filter_files_extension" type="xboolean" value="false"/>
                     <entry key="files_extension_expression" type="xstring" value=".csv"/>
                     <entry key="files_extension_case_sensitive" type="xboolean" value="false"/>
-                    <entry key="filter_files_name" type="xboolean" value="false"/>
-                    <entry key="files_name_expression" type="xstring" value="*"/>
+                    <entry key="filter_files_name" type="xboolean" value="true"/>
+                    <entry key="files_name_expression" type="xstring" value="file*.xlsx"/>
                     <entry key="files_name_case_sensitive" type="xboolean" value="false"/>
                     <entry key="files_name_filter_type" type="xstring" value="WILDCARD"/>
                     <entry key="include_hidden_files" type="xboolean" value="false"/>
@@ -78,12 +78,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 34, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 74, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="80bbdb41-2224-4dea-8f66-eb3644dd1f2d"/>
+        <entry key="file_store_id" type="xstring" value="05578948-018c-41c6-a38b-58d65ec05c63"/>
     </config>
 </config>

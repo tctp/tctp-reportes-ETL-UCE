@@ -13,8 +13,13 @@
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
             <config key="1">
-                <entry key="old_column_name" type="xstring" value="Rut"/>
+                <entry key="old_column_name" type="xstring" value="username"/>
                 <entry key="new_column_name" type="xstring" value="mcu_user_rut"/>
+                <entry key="new_column_type" type="xint" value="0"/>
+            </config>
+            <config key="2">
+                <entry key="old_column_name" type="xstring" value="courseStartDate"/>
+                <entry key="new_column_name" type="xstring" value="mcu_date_created"/>
                 <entry key="new_column_type" type="xint" value="0"/>
             </config>
         </config>
@@ -40,12 +45,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 4466, Cols: 14"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 4292, Cols: 15"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="f49af193-fbdd-4745-967d-bfa3debae8f0"/>
+        <entry key="file_store_id" type="xstring" value="2d6b46f6-205e-40bd-a6de-9de7ad836c05"/>
     </config>
 </config>
