@@ -10,7 +10,7 @@
         <entry key="yCellOffset" type="xint" value="0"/>
         <entry key="writeColHdr" type="xboolean" value="true"/>
         <entry key="writeRowHdr" type="xboolean" value="false"/>
-        <entry key="filename" type="xstring" value="C:\Users\Yerffrey Romero\file_9.xls"/>
+        <entry key="filename" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_1.xlsx"/>
         <entry key="sheetname" type="xstring" value="default"/>
         <entry key="missingPattern" type="xstring" value=""/>
         <entry key="overwrite_ok" type="xboolean" value="true"/>
@@ -25,14 +25,26 @@
         <config key="xlswriter2">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="0"/>
+                <entry key="array-size" type="xint" value="12"/>
+                <entry key="0" type="xstring" value="Cell2"/>
+                <entry key="1" type="xstring" value="Cell2(#0)"/>
+                <entry key="2" type="xstring" value="Cell2(#1)"/>
+                <entry key="3" type="xstring" value="Cell2(#2)"/>
+                <entry key="4" type="xstring" value="Cell2(#3)"/>
+                <entry key="5" type="xstring" value="Cell2(#4)"/>
+                <entry key="6" type="xstring" value="Cell2(#5)"/>
+                <entry key="7" type="xstring" value="Cell2(#6)"/>
+                <entry key="8" type="xstring" value="Cell2(#7)"/>
+                <entry key="9" type="xstring" value="Cell2(#8)"/>
+                <entry key="10" type="xstring" value="Cell2(#9)"/>
+                <entry key="11" type="xstring" value="CursoId"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="4"/>
                 <entry key="0" type="xstring" value="XML"/>
                 <entry key="1" type="xstring" value="Header"/>
-                <entry key="2" type="xstring" value="Cell"/>
-                <entry key="3" type="xstring" value="Row"/>
+                <entry key="2" type="xstring" value="Body"/>
+                <entry key="3" type="xstring" value="CELLS"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -42,11 +54,12 @@
             </config>
             <config key="datatype">
                 <config key="typelist">
+                    <entry key="org.knime.core.data.xml.XMLValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
                 </config>
             </config>

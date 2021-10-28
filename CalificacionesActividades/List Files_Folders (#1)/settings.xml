@@ -6,8 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
-        <entry key="include_root_folder" type="xboolean" value="false"/>
         <config key="file_chooser_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -16,15 +14,16 @@
             <config key="file_system_chooser__Internals">
                 <entry key="has_fs_port" type="xboolean" value="false"/>
                 <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                <entry key="convenience_fs_category" type="xstring" value="LOCAL"/>
+                <entry key="convenience_fs_category" type="xstring" value="MOUNTPOINT"/>
                 <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
                 <entry key="mountpoint" type="xstring" value="LOCAL"/>
                 <entry key="connected_fs" type="xboolean" value="true"/>
             </config>
             <config key="path">
                 <entry key="location_present" type="xboolean" value="true"/>
-                <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value=""/>
+                <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
+                <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
+                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/DESARROLLO/Situación final"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -34,11 +33,11 @@
                 <entry key="filter_mode" type="xstring" value="FILES_IN_FOLDERS"/>
                 <entry key="include_subfolders" type="xboolean" value="false"/>
                 <config key="filter_options">
-                    <entry key="filter_files_extension" type="xboolean" value="false"/>
-                    <entry key="files_extension_expression" type="xstring" value=""/>
+                    <entry key="filter_files_extension" type="xboolean" value="true"/>
+                    <entry key="files_extension_expression" type="xstring" value="xlsx"/>
                     <entry key="files_extension_case_sensitive" type="xboolean" value="false"/>
-                    <entry key="filter_files_name" type="xboolean" value="false"/>
-                    <entry key="files_name_expression" type="xstring" value="*"/>
+                    <entry key="filter_files_name" type="xboolean" value="true"/>
+                    <entry key="files_name_expression" type="xstring" value="file*"/>
                     <entry key="files_name_case_sensitive" type="xboolean" value="false"/>
                     <entry key="files_name_filter_type" type="xstring" value="WILDCARD"/>
                     <entry key="include_hidden_files" type="xboolean" value="false"/>
@@ -52,13 +51,11 @@
                 </config>
             </config>
         </config>
+        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
+        <entry key="include_root_folder" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Please specify a folder"/>
-    </config>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.filehandling.utility.nodes.listpaths.ListFilesAndFoldersNodeFactory"/>
     <entry key="node-name" type="xstring" value="List Files/Folders"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Filehandling Nodes"/>
@@ -75,16 +72,19 @@
         <config key="table"/>
     </config>
     <entry key="name" type="xstring" value="List Files/Folders"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 23, Cols: 1"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="f3832b84-1a2f-4b7d-a54f-0fabaae286d9"/>
     </config>
 </config>
