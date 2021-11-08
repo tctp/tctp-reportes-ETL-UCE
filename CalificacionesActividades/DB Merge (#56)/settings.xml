@@ -13,7 +13,7 @@
         <config key="dbTable">
             <entry key="database" type="xstring" value=""/>
             <entry key="schema" type="xstring" value="UCE"/>
-            <entry key="table" type="xstring" value="ma_actividades"/>
+            <entry key="table" type="xstring" value="mv_estado_aprendiz"/>
         </config>
         <config key="whereColumns">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
@@ -23,9 +23,10 @@
                 <entry key="1" type="xstring" value="meu_course_id"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="2"/>
+                <entry key="array-size" type="xint" value="3"/>
                 <entry key="0" type="xstring" value="meu_point_grade"/>
                 <entry key="1" type="xstring" value="meu_user_status"/>
+                <entry key="2" type="xstring" value="Iteration"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -36,8 +37,8 @@
             <config key="datatype">
                 <config key="typelist">
                     <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
@@ -52,9 +53,10 @@
                 <entry key="1" type="xstring" value="meu_user_status"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="2"/>
+                <entry key="array-size" type="xint" value="3"/>
                 <entry key="0" type="xstring" value="meu_user_rut"/>
                 <entry key="1" type="xstring" value="meu_course_id"/>
+                <entry key="2" type="xstring" value="Iteration"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -65,8 +67,8 @@
             <config key="datatype">
                 <config key="typelist">
                     <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
@@ -100,7 +102,7 @@
         <entry key="disableDbDataPort" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.database.node.io.merge.DBMergeNodeFactory"/>
     <entry key="node-name" type="xstring" value="DB Merge"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database nodes"/>
@@ -113,20 +115,28 @@
     <entry key="node-feature-version" type="xstring" value="4.4.1.v202108201736"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="DB Merge"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 11542, Cols: 5"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObject"/>
+            <entry key="port_object_summary" type="xstring" value="Inactive Port Object"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="e191e9cd-4079-480d-a37b-8fe46e3e8c16"/>
     </config>
 </config>

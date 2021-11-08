@@ -20,19 +20,31 @@
         </config>
         <entry key="useRootsNameSpace" type="xboolean" value="false"/>
         <entry key="rootsNameSpacePrefix" type="xstring" value="dns"/>
-        <entry key="numberOfQueries" type="xint" value="1"/>
-        <entry key="newColumn0" type="xstring" value="Cell2"/>
+        <entry key="numberOfQueries" type="xint" value="2"/>
+        <entry key="newColumn0" type="xstring" value="Rut"/>
         <entry key="useAttributeForColName0" type="xboolean" value="false"/>
         <entry key="attributeForColName0" type="xstring" value="name"/>
-        <entry key="xpath0" type="xstring" value="/dns:Row/dns:Cell/*"/>
-        <entry key="returnType0" type="xstring" value="String"/>
+        <entry key="xpath0" type="xstring" value="/dns:Row/dns:Cell[position()&lt;2]"/>
+        <entry key="returnType0" type="xstring" value="Node"/>
         <entry key="missingCellOnEmptySet0" type="xboolean" value="true"/>
         <entry key="missingCellOnEmptyString0" type="xboolean" value="false"/>
         <entry key="valueOnInfinityOrNaN0" type="xboolean" value="false"/>
         <entry key="missingCellOnInfinityNaN0" type="xboolean" value="true"/>
         <entry key="defaultNumber0" type="xint" value="0"/>
         <entry key="xmlFragmentName0" type="xstring" value="fragment"/>
-        <entry key="multiTagOption0" type="xstring" value="MultipleColumns"/>
+        <entry key="multiTagOption0" type="xstring" value="UngroupToRows"/>
+        <entry key="newColumn1" type="xstring" value="Puntos"/>
+        <entry key="useAttributeForColName1" type="xboolean" value="false"/>
+        <entry key="attributeForColName1" type="xstring" value="name"/>
+        <entry key="xpath1" type="xstring" value="/dns:Row/dns:Cell[last()-1]"/>
+        <entry key="returnType1" type="xstring" value="Node"/>
+        <entry key="missingCellOnEmptySet1" type="xboolean" value="true"/>
+        <entry key="missingCellOnEmptyString1" type="xboolean" value="false"/>
+        <entry key="valueOnInfinityOrNaN1" type="xboolean" value="false"/>
+        <entry key="missingCellOnInfinityNaN1" type="xboolean" value="true"/>
+        <entry key="defaultNumber1" type="xint" value="0"/>
+        <entry key="xmlFragmentName1" type="xstring" value="fragment"/>
+        <entry key="multiTagOption1" type="xstring" value="UngroupToRows"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -55,7 +67,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 17"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 4"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

@@ -10,20 +10,12 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="3"/>
-                <entry key="0" type="xstring" value="Rut"/>
-                <entry key="1" type="xstring" value="Calficacion"/>
+                <entry key="0" type="xstring" value="RUT"/>
+                <entry key="1" type="xstring" value="Calificacion"/>
                 <entry key="2" type="xstring" value="CursoId"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="8"/>
-                <entry key="0" type="xstring" value="Cell2(#0)"/>
-                <entry key="1" type="xstring" value="Cell2(#1)"/>
-                <entry key="2" type="xstring" value="Cell2(#2)"/>
-                <entry key="3" type="xstring" value="Cell2(#3)"/>
-                <entry key="4" type="xstring" value="Cell2(#4)"/>
-                <entry key="5" type="xstring" value="Cell2(#5)"/>
-                <entry key="6" type="xstring" value="Cell2(#6)"/>
-                <entry key="7" type="xstring" value="Cell2(#7)"/>
+                <entry key="array-size" type="xint" value="0"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -64,7 +56,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 203, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

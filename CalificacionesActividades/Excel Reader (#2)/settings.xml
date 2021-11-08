@@ -7,6 +7,20 @@
     </config>
     <config key="model">
         <config key="settings">
+            <entry key="sheet_selection" type="xstring" value="FIRST"/>
+            <entry key="sheet_name" type="xstring" value="default"/>
+            <entry key="sheet_index" type="xint" value="0"/>
+            <entry key="table_contains_column_names" type="xboolean" value="true"/>
+            <entry key="column_names_row_number" type="xlong" value="1"/>
+            <entry key="row_id" type="xstring" value="GENERATE"/>
+            <entry key="row_id_column" type="xstring" value="A"/>
+            <entry key="sheet_area" type="xstring" value="ENTIRE"/>
+            <entry key="read_from_column" type="xstring" value="A"/>
+            <entry key="read_to_column" type="xstring" value=""/>
+            <entry key="read_from_row" type="xstring" value="1"/>
+            <entry key="read_to_row" type="xstring" value=""/>
+            <entry key="empty_col_header_prefix" type="xstring" value="empty_"/>
+            <entry key="column_name_mode" type="xstring" value="EXCEL_COL_NAME"/>
             <config key="file_selection_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -53,20 +67,6 @@
                     </config>
                 </config>
             </config>
-            <entry key="sheet_selection" type="xstring" value="FIRST"/>
-            <entry key="sheet_name" type="xstring" value="default"/>
-            <entry key="sheet_index" type="xint" value="0"/>
-            <entry key="table_contains_column_names" type="xboolean" value="true"/>
-            <entry key="column_names_row_number" type="xlong" value="1"/>
-            <entry key="row_id" type="xstring" value="GENERATE"/>
-            <entry key="row_id_column" type="xstring" value="A"/>
-            <entry key="sheet_area" type="xstring" value="ENTIRE"/>
-            <entry key="read_from_column" type="xstring" value="A"/>
-            <entry key="read_to_column" type="xstring" value=""/>
-            <entry key="read_from_row" type="xstring" value="1"/>
-            <entry key="read_to_row" type="xstring" value=""/>
-            <entry key="empty_col_header_prefix" type="xstring" value="empty_"/>
-            <entry key="column_name_mode" type="xstring" value="EXCEL_COL_NAME"/>
         </config>
         <config key="advanced_settings">
             <entry key="fail_on_differing_specs" type="xboolean" value="true"/>
@@ -135,7 +135,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 203, Cols: 11"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 205, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

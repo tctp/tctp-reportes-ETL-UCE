@@ -24,7 +24,7 @@
                 <config key="path">
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\VFEnrollCursoC.csv"/>
+                    <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\CRA_CURSO0_AULA4.csv"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -58,7 +58,7 @@
             <entry key="skip_empty_data_rows" type="xboolean" value="false"/>
             <entry key="prepend_file_idx_to_row_id" type="xboolean" value="false"/>
             <entry key="comment_char" type="xstring" value="#"/>
-            <entry key="column_delimiter" type="xstring" value=","/>
+            <entry key="column_delimiter" type="xstring" value=";"/>
             <entry key="quote_char" type="xstring" value="&quot;"/>
             <entry key="quote_escape_char" type="xstring" value="&quot;"/>
             <entry key="use_line_break_row_delimiter" type="xboolean" value="true"/>
@@ -68,8 +68,8 @@
         <config key="table_spec_config_Internals">
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
-                <config key="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\VFEnrollCursoC.csv">
-                    <entry key="num_columns" type="xint" value="9"/>
+                <config key="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\CRA_CURSO0_AULA4.csv">
+                    <entry key="num_columns" type="xint" value="10"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="username"/>
                         <entry key="has_type" type="xboolean" value="true"/>
@@ -92,41 +92,48 @@
                         </config>
                     </config>
                     <config key="3">
+                        <entry key="name" type="xstring" value="password"/>
+                        <entry key="has_type" type="xboolean" value="false"/>
+                        <config key="type">
+                            <entry key="class" type="xstring" value="java.lang.String"/>
+                        </config>
+                    </config>
+                    <config key="4">
                         <entry key="name" type="xstring" value="email"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
                         </config>
                     </config>
-                    <config key="4">
+                    <config key="5">
                         <entry key="name" type="xstring" value="idnumber"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
                         </config>
                     </config>
-                    <config key="5">
+                    <config key="6">
                         <entry key="name" type="xstring" value="course1"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
                         </config>
                     </config>
-                    <config key="6">
+                    <config key="7">
                         <entry key="name" type="xstring" value="role1"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.Integer"/>
                         </config>
                     </config>
-                    <config key="7">
+                    <config key="8">
                         <entry key="name" type="xstring" value="course2"/>
                         <entry key="has_type" type="xboolean" value="false"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
                         </config>
                     </config>
-                    <config key="8">
+                    <config key="9">
                         <entry key="name" type="xstring" value="role2"/>
                         <entry key="has_type" type="xboolean" value="false"/>
                         <config key="type">
@@ -211,13 +218,13 @@
                     </config>
                     <config key="3">
                         <config key="external_spec">
-                            <entry key="name" type="xstring" value="email"/>
-                            <entry key="has_type" type="xboolean" value="true"/>
+                            <entry key="name" type="xstring" value="password"/>
+                            <entry key="has_type" type="xboolean" value="false"/>
                             <config key="type">
                                 <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="email"/>
+                        <entry key="name" type="xstring" value="password"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="3"/>
                         <config key="production_path">
@@ -235,13 +242,13 @@
                     </config>
                     <config key="4">
                         <config key="external_spec">
-                            <entry key="name" type="xstring" value="idnumber"/>
+                            <entry key="name" type="xstring" value="email"/>
                             <entry key="has_type" type="xboolean" value="true"/>
                             <config key="type">
                                 <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="idnumber"/>
+                        <entry key="name" type="xstring" value="email"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="4"/>
                         <config key="production_path">
@@ -259,13 +266,13 @@
                     </config>
                     <config key="5">
                         <config key="external_spec">
-                            <entry key="name" type="xstring" value="course1"/>
+                            <entry key="name" type="xstring" value="idnumber"/>
                             <entry key="has_type" type="xboolean" value="true"/>
                             <config key="type">
                                 <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="course1"/>
+                        <entry key="name" type="xstring" value="idnumber"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="5"/>
                         <config key="production_path">
@@ -283,13 +290,13 @@
                     </config>
                     <config key="6">
                         <config key="external_spec">
-                            <entry key="name" type="xstring" value="role1"/>
+                            <entry key="name" type="xstring" value="course1"/>
                             <entry key="has_type" type="xboolean" value="true"/>
                             <config key="type">
-                                <entry key="class" type="xstring" value="java.lang.Integer"/>
+                                <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="role1"/>
+                        <entry key="name" type="xstring" value="course1"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="6"/>
                         <config key="production_path">
@@ -307,6 +314,30 @@
                     </config>
                     <config key="7">
                         <config key="external_spec">
+                            <entry key="name" type="xstring" value="role1"/>
+                            <entry key="has_type" type="xboolean" value="true"/>
+                            <config key="type">
+                                <entry key="class" type="xstring" value="java.lang.Integer"/>
+                            </config>
+                        </config>
+                        <entry key="name" type="xstring" value="role1"/>
+                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="position" type="xint" value="7"/>
+                        <config key="production_path">
+                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
+                            <entry key="_converter_src" type="xstring" value="java.lang.Integer"/>
+                            <entry key="_converter_dst" type="xstring" value="Number (integer)"/>
+                            <entry key="_converter_name" type="xstring" value="Integer"/>
+                            <config key="_converter_config"/>
+                            <entry key="_producer" type="xstring" value="class java.lang.Integer-&gt;java.lang.Integer"/>
+                            <entry key="_producer_src" type="xstring" value="java.lang.Integer"/>
+                            <entry key="_producer_dst" type="xstring" value="java.lang.Integer"/>
+                            <entry key="_producer_name" type="xstring" value="java.lang.Integer"/>
+                            <config key="_producer_config"/>
+                        </config>
+                    </config>
+                    <config key="8">
+                        <config key="external_spec">
                             <entry key="name" type="xstring" value="course2"/>
                             <entry key="has_type" type="xboolean" value="false"/>
                             <config key="type">
@@ -314,30 +345,6 @@
                             </config>
                         </config>
                         <entry key="name" type="xstring" value="course2"/>
-                        <entry key="keep" type="xboolean" value="true"/>
-                        <entry key="position" type="xint" value="7"/>
-                        <config key="production_path">
-                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-                            <entry key="_converter_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_converter_dst" type="xstring" value="String"/>
-                            <entry key="_converter_name" type="xstring" value="String"/>
-                            <config key="_converter_config"/>
-                            <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-                            <entry key="_producer_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_dst" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_name" type="xstring" value="java.lang.String"/>
-                            <config key="_producer_config"/>
-                        </config>
-                    </config>
-                    <config key="8">
-                        <config key="external_spec">
-                            <entry key="name" type="xstring" value="role2"/>
-                            <entry key="has_type" type="xboolean" value="false"/>
-                            <config key="type">
-                                <entry key="class" type="xstring" value="java.lang.String"/>
-                            </config>
-                        </config>
-                        <entry key="name" type="xstring" value="role2"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="8"/>
                         <config key="production_path">
@@ -353,9 +360,33 @@
                             <config key="_producer_config"/>
                         </config>
                     </config>
-                    <entry key="num_columns" type="xint" value="9"/>
+                    <config key="9">
+                        <config key="external_spec">
+                            <entry key="name" type="xstring" value="role2"/>
+                            <entry key="has_type" type="xboolean" value="false"/>
+                            <config key="type">
+                                <entry key="class" type="xstring" value="java.lang.String"/>
+                            </config>
+                        </config>
+                        <entry key="name" type="xstring" value="role2"/>
+                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="position" type="xint" value="9"/>
+                        <config key="production_path">
+                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+                            <entry key="_converter_src" type="xstring" value="java.lang.String"/>
+                            <entry key="_converter_dst" type="xstring" value="String"/>
+                            <entry key="_converter_name" type="xstring" value="String"/>
+                            <config key="_converter_config"/>
+                            <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+                            <entry key="_producer_src" type="xstring" value="java.lang.String"/>
+                            <entry key="_producer_dst" type="xstring" value="java.lang.String"/>
+                            <entry key="_producer_name" type="xstring" value="java.lang.String"/>
+                            <config key="_producer_config"/>
+                        </config>
+                    </config>
+                    <entry key="num_columns" type="xint" value="10"/>
                     <config key="intersection_indices">
-                        <entry key="array-size" type="xint" value="9"/>
+                        <entry key="array-size" type="xint" value="10"/>
                         <entry key="0" type="xint" value="0"/>
                         <entry key="1" type="xint" value="1"/>
                         <entry key="2" type="xint" value="2"/>
@@ -365,25 +396,26 @@
                         <entry key="6" type="xint" value="6"/>
                         <entry key="7" type="xint" value="7"/>
                         <entry key="8" type="xint" value="8"/>
+                        <entry key="9" type="xint" value="9"/>
                     </config>
                 </config>
                 <entry key="skip_empty_columns" type="xboolean" value="false"/>
                 <entry key="enforce_types" type="xboolean" value="true"/>
                 <entry key="column_filter_mode" type="xstring" value="UNION"/>
                 <config key="unknown_columns_transformation">
-                    <entry key="position" type="xint" value="9"/>
+                    <entry key="position" type="xint" value="10"/>
                     <entry key="keep" type="xboolean" value="true"/>
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\VFEnrollCursoC.csv"/>
+            <entry key="source_group_id" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\UsuariosMatriculados\CRA_CURSO0_AULA4.csv"/>
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
                         <entry key="has_column_header" type="xboolean" value="true"/>
                         <entry key="has_row_id" type="xboolean" value="false"/>
                         <entry key="comment_char" type="xstring" value="#"/>
-                        <entry key="column_delimiter" type="xstring" value=","/>
+                        <entry key="column_delimiter" type="xstring" value=";"/>
                         <entry key="quote_char" type="xstring" value="&quot;"/>
                         <entry key="quote_escape_char" type="xstring" value="&quot;"/>
                         <entry key="row_delimiter" type="xstring" value="%%00013%%00010"/>
@@ -474,7 +506,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 232, Cols: 9"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 232, Cols: 10"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

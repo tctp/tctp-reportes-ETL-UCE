@@ -27,30 +27,24 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="values0.42641927827070514"/>
+        <entry key="column_name" type="xstring" value="Puntos"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
         <config key="column_type">
-            <config key="collection_element_type">
-                <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-            </config>
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.collection.ListCell"/>
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.xml.XMLCell"/>
         </config>
         <config key="column_domain"/>
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
     <config key="column_spec_3">
-        <entry key="column_name" type="xstring" value="value_names0.8799881317311281"/>
+        <entry key="column_name" type="xstring" value="RUT"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
         <config key="column_type">
-            <config key="collection_element_type">
-                <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-            </config>
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.collection.ListCell"/>
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
         </config>
         <config key="column_domain"/>
         <config key="column_properties"/>
