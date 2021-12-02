@@ -42,31 +42,31 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row172"/>
+            <entry key="value" type="xstring" value="Row48"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="URL"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/AccesoPlataforma/ReporteMegatutorAccesos/file_99.xml"/>
+            <entry key="value" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Location"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\AccesoPlataforma\ReporteMegatutorAccesos\file_99.xml"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_9.xml"/>
         </config>
         <config key="Variable_10">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="173"/>
+            <entry key="value" type="xint" value="49"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="172"/>
+            <entry key="value" type="xint" value="48"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -123,6 +123,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c27d0604-9aec-4d8b-9d6b-9a99c63a8b7b"/>
+        <entry key="file_store_id" type="xstring" value="edd53b89-d1cc-4a4e-8fad-e89f25db3c87"/>
     </config>
 </config>

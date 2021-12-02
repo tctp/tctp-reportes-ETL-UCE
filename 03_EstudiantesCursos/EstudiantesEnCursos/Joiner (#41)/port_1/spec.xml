@@ -92,19 +92,19 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA14"/>
+                        <entry key="StringCell" type="xstring" value="CURSO0_AULA13"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA15"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA14"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CURSO0_AULA13"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA15"/>
                     </config>
                 </config>
                 <config key="3">

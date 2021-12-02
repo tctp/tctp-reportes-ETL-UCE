@@ -20,7 +20,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="10831"/>
+                    <entry key="IntCell" type="xint" value="10848"/>
                 </config>
             </config>
         </config>
@@ -37,7 +37,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="36"/>
+                <entry key="array-size" type="xint" value="49"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -53,205 +53,283 @@
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso A: ¿Qué es el Centro de lectura y biblioteca escolar (CRA)? Propósitos y servicios - Aula 3"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar -Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 1"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 3"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar -Aula 2"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación: Curso B - Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 4"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 3"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 5"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación: Curso B - Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 4"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B - Aula 6"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 5"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso C. Organización de espacios y ambiente de bibliotecas escolares - Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B - Aula 6"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso C. Organización de espacios y ambiente de bibliotecas escolares - Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 7"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 8"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 9"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 3"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso C. Organización de espacios y ambiente de bibliotecas escolares - Aula 1"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 4"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso C. Organización de espacios y ambiente de bibliotecas escolares - Aula 2"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso C. Organización de espacios y ambiente de bibliotecas escolares - Aula 3"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso D: Desarrollo de las colecciones - Aula 1"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 3"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso E: Currículum escolar y fomento de la lectura- Aula 1"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso E: Currículum escolar y fomento de la lectura- Aula 2"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso F: Curiosidad, colaboración, creatividad y pensamiento crítico en la biblioteca - Aula 1"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 3"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso F: Curiosidad, colaboración, creatividad y pensamiento crítico en la biblioteca - Aula 2"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 4"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 1"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 5"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 2"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 6"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 3"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 7"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 4"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 8"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso H: Liderazgo del encargado de biblioteca en la comunidad escolar - Aula 1"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 9"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso H: Liderazgo del encargado de biblioteca en la comunidad escolar - Aula 2"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 10"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso I:Promoción de la lectura en la comunidad escolar - Aula 1"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 11"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 1"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 12"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 2"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación: Tutorial- Aula 13"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso J : Vínculo con otras organizaciones de fomento del libro y la lectura -Aula 3"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso F: Curiosidad, colaboración, creatividad y pensamiento crítico en la biblioteca - Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Plan de Formación: Curso J - Aula 4"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso F: Curiosidad, colaboración, creatividad y pensamiento crítico en la biblioteca - Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 1"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso E: Currículum escolar y fomento de la lectura- Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 2"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso E: Currículum escolar y fomento de la lectura- Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 3"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso H: Liderazgo del encargado de biblioteca en la comunidad escolar - Aula 1"/>
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 4"/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de Formación; Curso H: Liderazgo del encargado de biblioteca en la comunidad escolar - Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 5"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 6"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 7"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 8"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 9"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 10"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 11"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 12"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 13"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 14"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 15"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 16"/>
+                    </config>
+                </config>
+                <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 17"/>
+                    </config>
+                </config>
+                <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Curso 0 o Tutorial - Aula 18"/>
                     </config>
                 </config>
             </config>
@@ -269,7 +347,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="36"/>
+                <entry key="array-size" type="xint" value="49"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -285,205 +363,283 @@
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOA_AULA3"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA1"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA3"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA2"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA4"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA3"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA5"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA4"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CURSOB_AULA6"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA5"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOC_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CURSOB_AULA6"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOC_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA7"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA8"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOB_AULA9"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA3"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOC_AULA1"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CURSOG_AULA4"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOC_AULA2"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOC_AULA3"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOD_AULA1"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA3"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOE_AULA1"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOE_AULA2"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOF_AULA1"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA3"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOF_AULA2"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA4"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA1"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA5"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA2"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA6"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOG_AULA3"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA7"/>
+                        <entry key="StringCell" type="xstring" value="CURSOG_AULA4"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA8"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOH_AULA1"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA9"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOH_AULA2"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA10"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOI_AULA1"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA11"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA1"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA12"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA2"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CURSO0_AULA13"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSOJ_AULA3"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOF_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CURSOJ_AULA4"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOF_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA1"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOE_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA2"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOE_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA3"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOH_AULA1"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA4"/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="CRA_CURSOH_AULA2"/>
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA5"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA6"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA7"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA8"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA9"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA10"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA11"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA12"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CURSO0_AULA13"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA14"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA15"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA16"/>
+                    </config>
+                </config>
+                <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA17"/>
+                    </config>
+                </config>
+                <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="CRA_CURSO0_AULA18"/>
                     </config>
                 </config>
             </config>
@@ -506,7 +662,7 @@
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.time.localdate.LocalDateCell"/>
-                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5QoOeA=="/>
+                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5QsIeA=="/>
             </config>
         </config>
         <config key="column_properties"/>
@@ -523,11 +679,11 @@
         <config key="column_domain">
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.time.localdate.LocalDateCell"/>
-                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5QoPeA=="/>
+                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5QsIeA=="/>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.time.localdate.LocalDateCell"/>
-                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5goOeA=="/>
+                <entry key="datacell_serialized" type="xstring" value="rO0ABXNyADBvcmcua25pbWUuY29yZS5kYXRhLnRpbWUubG9jYWxkYXRlLkxvY2FsRGF0ZUNlbGyMRXN6y/zSRAIAAUwAC21fbG9jYWxEYXRldAAVTGphdmEvdGltZS9Mb2NhbERhdGU7eHIAHG9yZy5rbmltZS5jb3JlLmRhdGEuRGF0YUNlbGxm6eiJVomygAIAAHhwc3IADWphdmEudGltZS5TZXKVXYS6GyJIsgwAAHhwdwcDAAAH5goNeA=="/>
             </config>
         </config>
         <config key="column_properties"/>

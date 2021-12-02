@@ -25,7 +25,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/DESARROLLO/AccesoPlataforma/ReporteMegatutorAccesos"/>
+                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -70,6 +70,10 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Node created an empty data table."/>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.filehandling.utility.nodes.listpaths.ListFilesAndFoldersNodeFactory"/>
     <entry key="node-name" type="xstring" value="List Files/Folders"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Filehandling Nodes"/>
@@ -93,12 +97,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 173, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 0, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8605e864-4350-43f3-aaf5-de9b05872160"/>
+        <entry key="file_store_id" type="xstring" value="8f95de40-39ec-419d-89ca-2c4b8b7460ff"/>
     </config>
 </config>

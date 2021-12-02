@@ -12,185 +12,173 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="30"/>
+                <entry key="array-size" type="xint" value="28"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_1.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_1.xml"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_10.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_10.xml"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_11.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_11.xml"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_12.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_12.xml"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_13.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_13.xml"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_14.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_14.xml"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_15.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_15.xml"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_16.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_16.xml"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_17.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_17.xml"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_18.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_18.xml"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_19.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_19.xml"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_2.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_2.xml"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_20.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_20.xml"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_21.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_21.xml"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_22.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_22.xml"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_23.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_23.xml"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_24.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_24.xml"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_25.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_25.xml"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_26.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_26.xml"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_27.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_27.xml"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_28.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_28.xml"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_29.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_3.xml"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_3.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_4.xml"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_30.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_5.xml"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_4.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_6.xml"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_5.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_7.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_6.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_8.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_7.xml"/>
-                    </config>
-                </config>
-                <config key="28">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_8.xml"/>
-                    </config>
-                </config>
-                <config key="29">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\Situación final\file_9.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_9.xml"/>
                     </config>
                 </config>
             </config>
@@ -208,185 +196,173 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="30"/>
+                <entry key="array-size" type="xint" value="28"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_1.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_1.xml"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_10.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_10.xml"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_11.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_11.xml"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_12.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_12.xml"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_13.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_13.xml"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_14.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_14.xml"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_15.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_15.xml"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_16.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_16.xml"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_17.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_17.xml"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_18.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_18.xml"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_19.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_19.xml"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_2.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_2.xml"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_20.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_20.xml"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_21.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_21.xml"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_22.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_22.xml"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_23.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_23.xml"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_24.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_24.xml"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_25.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_25.xml"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_26.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_26.xml"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_27.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_27.xml"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_28.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_28.xml"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_29.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_3.xml"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_3.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_4.xml"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_30.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_5.xml"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_4.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_6.xml"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_5.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_7.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_6.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_8.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_7.xml"/>
-                    </config>
-                </config>
-                <config key="28">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_8.xml"/>
-                    </config>
-                </config>
-                <config key="29">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/DESARROLLO/Situación%20final/file_9.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_9.xml"/>
                     </config>
                 </config>
             </config>

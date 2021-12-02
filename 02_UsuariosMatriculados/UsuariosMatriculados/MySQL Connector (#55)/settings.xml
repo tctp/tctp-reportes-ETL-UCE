@@ -928,10 +928,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="DB Connection no longer available. Go to advanced settings to enable connection restoration."/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.database.extension.mysql.node.connector.MySQLDBConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="MySQL Connector"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database extensions"/>
@@ -941,7 +937,7 @@
     <entry key="node-feature-name" type="xstring" value="KNIME Database"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.database.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.1.v202108201736"/>
+    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181013"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="MySQL Connector"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -951,7 +947,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 051c943f-d24b-4b61-a3fa-8d818d77dc7d"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL be2a42e2-9483-40f0-9d46-9deb02420e7b"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -959,6 +955,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="c1ee2911-cf6a-44fc-9609-d32599c21b85"/>
     </config>
 </config>

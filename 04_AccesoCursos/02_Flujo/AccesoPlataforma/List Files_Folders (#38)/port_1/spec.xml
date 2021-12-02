@@ -15,8 +15,8 @@
         <config key="meta_data">
             <config key="org.knime.filehandling.core.data.location.FSLocationValueMetaData">
                 <config key="fs_location_spec_0">
-                    <entry key="fs_category" type="xstring" value="LOCAL"/>
-                    <entry key="fs_specifier" type="xstring" isnull="true" value=""/>
+                    <entry key="fs_category" type="xstring" value="MOUNTPOINT"/>
+                    <entry key="fs_specifier" type="xstring" value="LOCAL"/>
                 </config>
             </config>
         </config>

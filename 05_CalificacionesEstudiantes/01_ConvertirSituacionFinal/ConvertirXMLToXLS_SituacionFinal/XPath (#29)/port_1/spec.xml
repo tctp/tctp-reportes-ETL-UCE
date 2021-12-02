@@ -28,7 +28,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar -Aula 2 (#10800)"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación: Curso B - Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 4 (#10802)"/>
                     </config>
                 </config>
             </config>

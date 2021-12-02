@@ -24,27 +24,28 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="173"/>
+            <entry key="value" type="xint" value="49"/>
         </config>
         <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="172"/>
+            <entry key="value" type="xint" value="48"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row172"/>
+            <entry key="value" type="xstring" value="Row48"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Path"/>
             <entry key="class" type="xstring" value="FSLocation"/>
             <entry key="location_present" type="xboolean" value="true"/>
-            <entry key="file_system_type" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\DESARROLLO\AccesoPlataforma\ReporteMegatutorAccesos\file_99.xlsx"/>
+            <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
+            <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
+            <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xlsx"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -156,6 +157,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="248dd82d-df57-4fd6-b748-afbd7746dc28"/>
     </config>
 </config>
