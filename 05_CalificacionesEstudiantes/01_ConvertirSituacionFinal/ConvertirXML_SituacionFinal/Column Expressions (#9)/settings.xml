@@ -52,11 +52,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Expression Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.expressions.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.0.v202106160628"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202107011901"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Expressions"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.expressions.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.0.v202106252311"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202110260934"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Column Expressions"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -66,12 +66,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 28, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 32, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7cc2f4c2-30f5-46ec-8770-21226dc37199"/>
+        <entry key="file_store_id" type="xstring" value="cb259c84-536b-44f9-ba4f-556696f3c356"/>
     </config>
 </config>

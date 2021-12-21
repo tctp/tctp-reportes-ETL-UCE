@@ -24,19 +24,19 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="37"/>
+            <entry key="value" type="xint" value="51"/>
         </config>
         <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="36"/>
+            <entry key="value" type="xint" value="50"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row36"/>
+            <entry key="value" type="xstring" value="Row50"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
@@ -45,7 +45,7 @@
             <entry key="location_present" type="xboolean" value="true"/>
             <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
             <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/UsuariosMatriculados/VFEnrollCursoC.csv"/>
+            <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/UsuariosMatriculados/XML/file_9_output_50.xml"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -100,6 +100,7 @@
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
                 <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
                 <config key="typelist">
@@ -135,11 +136,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111301618"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202112011253"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Table Row To Variable Loop Start"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -157,6 +158,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7b380e7f-49eb-4c2f-ad68-aac23efe0867"/>
+        <entry key="file_store_id" type="xstring" value="9df01a23-1364-4190-81ce-558aba9f5d6f"/>
     </config>
 </config>

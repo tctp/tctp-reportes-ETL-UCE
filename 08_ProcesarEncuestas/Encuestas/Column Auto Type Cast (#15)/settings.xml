@@ -23,6 +23,7 @@
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
                 <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
                 <config key="typelist">
@@ -47,11 +48,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111301618"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202112011253"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Column Auto Type Cast"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -61,7 +62,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 45388, Cols: 5"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 58128, Cols: 5"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -74,6 +75,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c5ba1504-66d2-449b-a889-707c5f3ba6f8"/>
+        <entry key="file_store_id" type="xstring" value="623d9e17-64f0-4613-9456-97920df59532"/>
     </config>
 </config>

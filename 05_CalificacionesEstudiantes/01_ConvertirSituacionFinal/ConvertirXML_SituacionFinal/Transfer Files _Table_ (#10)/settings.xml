@@ -95,11 +95,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Filehandling Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.filehandling.utility.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111300954"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202112011253"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="Source File System Connection"/>
@@ -115,12 +115,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 28, Cols: 4"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 32, Cols: 4"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="40139cdb-40c0-4865-9cb9-05321994d574"/>
+        <entry key="file_store_id" type="xstring" value="09eabee3-e764-4aab-b977-bf49a31dcdb8"/>
     </config>
 </config>

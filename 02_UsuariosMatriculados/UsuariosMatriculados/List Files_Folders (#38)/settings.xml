@@ -23,7 +23,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/UsuariosMatriculados"/>
+                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/UsuariosMatriculados/XML"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -33,11 +33,11 @@
                 <entry key="filter_mode" type="xstring" value="FILES_IN_FOLDERS"/>
                 <entry key="include_subfolders" type="xboolean" value="false"/>
                 <config key="filter_options">
-                    <entry key="filter_files_extension" type="xboolean" value="true"/>
+                    <entry key="filter_files_extension" type="xboolean" value="false"/>
                     <entry key="files_extension_expression" type="xstring" value=".csv"/>
                     <entry key="files_extension_case_sensitive" type="xboolean" value="false"/>
-                    <entry key="filter_files_name" type="xboolean" value="false"/>
-                    <entry key="files_name_expression" type="xstring" value="*"/>
+                    <entry key="filter_files_name" type="xboolean" value="true"/>
+                    <entry key="files_name_expression" type="xstring" value="*_output_*"/>
                     <entry key="files_name_case_sensitive" type="xboolean" value="false"/>
                     <entry key="files_name_filter_type" type="xstring" value="WILDCARD"/>
                     <entry key="include_hidden_files" type="xboolean" value="false"/>
@@ -75,11 +75,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Filehandling Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.filehandling.utility.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111300954"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181012"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202112011253"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -93,12 +93,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 37, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 51, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="58d5ebb6-8b62-4156-816d-f8e848818801"/>
+        <entry key="file_store_id" type="xstring" value="5f0f1abb-54e3-40da-8486-e8cc8bb1bb3f"/>
     </config>
 </config>

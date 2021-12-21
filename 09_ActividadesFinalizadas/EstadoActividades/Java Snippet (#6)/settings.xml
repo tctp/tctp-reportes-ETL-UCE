@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="scriptImports" type="xstring" value="// Your custom imports:%%00010import java.util.regex.Matcher;%%00010import java.util.regex.Pattern;%%00010import java.util.ArrayList;"/>
         <entry key="scriptFields" type="xstring" value="// Your custom variables:%%00010"/>
-        <entry key="scriptBody" type="xstring" value="// Enter your code here:%%00010Pattern p = Pattern.compile(&quot;\\d+&quot;);%%00010ArrayList&lt;String&gt; li = new ArrayList&lt;&gt;();%%00010Matcher m = p.matcher(c_Path);%%00010while(m.find()) {%%00010  li.add(m.group());%%00010}%%00010%%00010if(li.size() &gt; 1){%%00010  out_CursoId = li.get(0);%%00010} else {%%00010  out_CursoId = li.get(1);%%00010}"/>
+        <entry key="scriptBody" type="xstring" value="// Enter your code here:%%00010Pattern p = Pattern.compile(&quot;\\d+&quot;);%%00010ArrayList&lt;String&gt; li = new ArrayList&lt;&gt;();%%00010Matcher m = p.matcher(c_Path);%%00010while(m.find()) {%%00010  li.add(m.group());%%00010}%%00010%%00010if(li.size() &gt; 2){%%00010  out_CursoId = li.get(2);%%00010} else if (li.size() &gt; 1 ) {%%00010  out_CursoId = li.get(1);%%00010} else {%%00010%%00009out_CursoId = li.get(0);%%00009%%00010}"/>
         <config key="jarFiles">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -32,11 +32,11 @@
         <config key="inCols">
             <entry key="array-size" type="xint" value="1"/>
             <config key="0">
-                <entry key="Name" type="xstring" value="Path"/>
+                <entry key="Name" type="xstring" value="NombreCurso"/>
                 <entry key="JavaName" type="xstring" value="c_Path"/>
                 <entry key="JavaType" type="xstring" value="java.lang.String"/>
                 <config key="Type">
-                    <entry key="cell_class" type="xstring" value="org.knime.filehandling.core.data.location.cell.SimpleFSLocationCell"/>
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <entry key="is_null" type="xboolean" value="false"/>
                 </config>
                 <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(DataValue,class java.lang.String,String (toString()))"/>
@@ -59,11 +59,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181014"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202110181249"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Javasnippet"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.javasnippet.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181014"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202110181249"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Java Snippet"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -73,7 +73,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 210, Cols: 42"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>

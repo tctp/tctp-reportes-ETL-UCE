@@ -6,13 +6,21 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="statementSeparator" type="xstring" value=";"/>
-        <entry key="statement" type="xstring" value="TRUNCATE TABLE `UCE`.`mv_cursos_usuarios`;"/>
         <config key="multipleStatement_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="multipleStatement" type="xboolean" value="false"/>
+        <config key="statementSeparator_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="statementSeparator" type="xstring" value=";"/>
+        <config key="statement_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="statement" type="xstring" value="TRUNCATE TABLE `UCE`.`mv_cursos_usuarios`;"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -35,7 +43,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 0aa82804-c366-4aae-a162-f4d3bb05cd47"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 943fb0c4-1839-4924-8aec-b2d4c50ddea6"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -43,6 +51,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7a44e46a-fb98-40f9-901a-e30b0bcd6970"/>
+        <entry key="file_store_id" type="xstring" value="173baa20-9305-4c11-8dda-d6be0e9e298f"/>
     </config>
 </config>

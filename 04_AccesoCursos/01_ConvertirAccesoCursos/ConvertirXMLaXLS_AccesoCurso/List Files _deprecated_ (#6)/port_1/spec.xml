@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="49"/>
+                <entry key="array-size" type="xint" value="31"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -166,142 +166,34 @@
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_32.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_4.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_33.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_5.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_34.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_6.xml"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_35.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_7.xml"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_36.xml"/>
-                    </config>
-                </config>
-                <config key="30">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_37.xml"/>
-                    </config>
-                </config>
-                <config key="31">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_38.xml"/>
-                    </config>
-                </config>
-                <config key="32">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_39.xml"/>
-                    </config>
-                </config>
-                <config key="33">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_4.xml"/>
-                    </config>
-                </config>
-                <config key="34">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_40.xml"/>
-                    </config>
-                </config>
-                <config key="35">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_41.xml"/>
-                    </config>
-                </config>
-                <config key="36">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_42.xml"/>
-                    </config>
-                </config>
-                <config key="37">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_43.xml"/>
-                    </config>
-                </config>
-                <config key="38">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_44.xml"/>
-                    </config>
-                </config>
-                <config key="39">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_45.xml"/>
-                    </config>
-                </config>
-                <config key="40">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_46.xml"/>
-                    </config>
-                </config>
-                <config key="41">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_47.xml"/>
-                    </config>
-                </config>
-                <config key="42">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_48.xml"/>
-                    </config>
-                </config>
-                <config key="43">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_49.xml"/>
-                    </config>
-                </config>
-                <config key="44">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_5.xml"/>
-                    </config>
-                </config>
-                <config key="45">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_6.xml"/>
-                    </config>
-                </config>
-                <config key="46">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_7.xml"/>
-                    </config>
-                </config>
-                <config key="47">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_8.xml"/>
                     </config>
                 </config>
-                <config key="48">
+                <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_9.xml"/>
@@ -322,7 +214,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="49"/>
+                <entry key="array-size" type="xint" value="31"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -476,142 +368,34 @@
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_32.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_33.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_34.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xml"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_35.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xml"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_36.xml"/>
-                    </config>
-                </config>
-                <config key="30">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_37.xml"/>
-                    </config>
-                </config>
-                <config key="31">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_38.xml"/>
-                    </config>
-                </config>
-                <config key="32">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_39.xml"/>
-                    </config>
-                </config>
-                <config key="33">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xml"/>
-                    </config>
-                </config>
-                <config key="34">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_40.xml"/>
-                    </config>
-                </config>
-                <config key="35">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_41.xml"/>
-                    </config>
-                </config>
-                <config key="36">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_42.xml"/>
-                    </config>
-                </config>
-                <config key="37">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_43.xml"/>
-                    </config>
-                </config>
-                <config key="38">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_44.xml"/>
-                    </config>
-                </config>
-                <config key="39">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_45.xml"/>
-                    </config>
-                </config>
-                <config key="40">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_46.xml"/>
-                    </config>
-                </config>
-                <config key="41">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_47.xml"/>
-                    </config>
-                </config>
-                <config key="42">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_48.xml"/>
-                    </config>
-                </config>
-                <config key="43">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_49.xml"/>
-                    </config>
-                </config>
-                <config key="44">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xml"/>
-                    </config>
-                </config>
-                <config key="45">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xml"/>
-                    </config>
-                </config>
-                <config key="46">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xml"/>
-                    </config>
-                </config>
-                <config key="47">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_8.xml"/>
                     </config>
                 </config>
-                <config key="48">
+                <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>

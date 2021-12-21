@@ -7,11 +7,15 @@
     </config>
     <config key="model">
         <config key="session_info">
-            <entry key="version" type="xint" value="2"/>
+            <entry key="version" type="xint" value="3"/>
             <entry key="db_type" type="xstring" value="mysql"/>
             <entry key="db_dialect" type="xstring" value="mysql"/>
             <entry key="db_driver" type="xstring" value="MySQL 8"/>
-            <config key="attributes"/>
+            <config key="attributes">
+                <config key="java.lang.Boolean">
+                    <entry key="knime.db.agent.writer.fail_on_missing_in_where_clause" type="xboolean" value="false"/>
+                </config>
+            </config>
         </config>
         <config key="mysql-connection">
             <entry key="host" type="xstring" value="localhost"/>
@@ -25,7 +29,7 @@
         <config key="authentication">
             <entry key="credentials" type="xstring" isnull="true" value=""/>
             <entry key="username" type="xstring" value="yromero"/>
-            <entry key="password" type="xpassword" value="01B1EB3A1DBC8D36ADC4A80C152A7164CF"/>
+            <entry key="password" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj15iQ7rIbtFveU6Qew=="/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
@@ -933,11 +937,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME database extensions"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.database.extensions"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.0.v202106181332"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111231952"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Database"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.database.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181013"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202111231952"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="MySQL Connector"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -947,7 +951,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL b7dc0203-9f10-41bc-9751-1d6edaf40fc1"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 2a198aef-f632-4f86-8026-aa80eee1a204"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -955,6 +959,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5966e00a-0f92-40a3-b317-69e51c842fb5"/>
+        <entry key="file_store_id" type="xstring" value="65b4fe79-4e2e-44ec-b6cd-9636eb6624e7"/>
     </config>
 </config>
