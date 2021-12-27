@@ -7,6 +7,20 @@
     </config>
     <config key="model">
         <config key="settings">
+            <entry key="column_name" type="xstring" value="XML"/>
+            <entry key="use_Xpath" type="xboolean" value="false"/>
+            <entry key="xpath" type="xstring" value=""/>
+            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
+            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
+            <config key="ns_prefixes">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <config key="namespaces">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <entry key="roots_name_space_prefix" type="xstring" value="dns"/>
+            <entry key="use_roots_namespace" type="xboolean" value="true"/>
+            <entry key="fail_if_not_found" type="xboolean" value="false"/>
             <config key="file_selection_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -52,20 +66,6 @@
                     </config>
                 </config>
             </config>
-            <entry key="column_name" type="xstring" value="XML"/>
-            <entry key="use_Xpath" type="xboolean" value="false"/>
-            <entry key="xpath" type="xstring" value=""/>
-            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
-            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
-            <config key="ns_prefixes">
-                <entry key="array-size" type="xint" value="0"/>
-            </config>
-            <config key="namespaces">
-                <entry key="array-size" type="xint" value="0"/>
-            </config>
-            <entry key="roots_name_space_prefix" type="xstring" value="dns"/>
-            <entry key="use_roots_namespace" type="xboolean" value="true"/>
-            <entry key="fail_if_not_found" type="xboolean" value="false"/>
         </config>
         <config key="limit_rows">
             <entry key="is_skip_rows" type="xboolean" value="false"/>
@@ -88,7 +88,11 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Errors overwriting node settings with flow variables: Unknown variable &quot;FileNewPath_location&quot;"/>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.xml.node.filehandling.reader.XMLReaderNodeFactory2"/>
     <entry key="node-name" type="xstring" value="XML Reader"/>
     <entry key="node-bundle-name" type="xstring" value="XML related functionality for KNIME"/>
@@ -105,15 +109,12 @@
         <config key="Data Table"/>
     </config>
     <entry key="name" type="xstring" value="XML Reader"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 1"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">

@@ -64,6 +64,7 @@
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
                 <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
                 <config key="typelist">
@@ -101,6 +102,7 @@
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
                 <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
                 <config key="typelist">
@@ -130,17 +132,21 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Database connection does not exist. Please reset the corresponding connector node."/>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.database.node.io.merge.DBMergeNodeFactory"/>
     <entry key="node-name" type="xstring" value="DB Merge"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.database.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.4.2.v202110181013"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.0.v202111121655"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Database"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.database.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.4.2.v202110181013"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.0.v202111231952"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="DB Merge"/>
     <entry key="hasContent" type="xboolean" value="false"/>

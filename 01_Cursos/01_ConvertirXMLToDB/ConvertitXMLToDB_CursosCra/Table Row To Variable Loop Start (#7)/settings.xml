@@ -35,48 +35,6 @@
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="missing"/>
         </config>
-        <config key="Loop_Execute_6">
-            <entry key="type" type="xstring" value="loopcontext_execute"/>
-        </config>
-        <config key="Variable_7">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="maxIterations"/>
-            <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="11"/>
-        </config>
-        <config key="Variable_8">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="currentIteration"/>
-            <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="10"/>
-        </config>
-        <config key="Variable_9">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="RowID"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row10"/>
-        </config>
-        <config key="Variable_10">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="FileNewPath"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\CursosCra\file_9_output_10.xml"/>
-        </config>
-        <config key="Variable_11">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="URI"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="knime://LOCAL/ProyectoReportesCra/Inputs/CursosCra/file_9.xml"/>
-        </config>
-        <config key="Variable_12">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="Path"/>
-            <entry key="class" type="xstring" value="FSLocation"/>
-            <entry key="location_present" type="xboolean" value="true"/>
-            <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
-            <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/CursosCra/file_9.xml"/>
-        </config>
     </config>
     <config key="internal_node_subsettings">
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
@@ -153,7 +111,7 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.base.node.meta.looper.variable.start.LoopStartVariable3NodeFactory"/>
     <entry key="node-name" type="xstring" value="Table Row To Variable Loop Start"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -166,21 +124,16 @@
     <entry key="node-feature-version" type="xstring" value="4.5.0.v202112011253"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Table Row To Variable Loop Start"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
-            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ffc4e9e2-4bf6-4665-92d4-3142c5e137a0"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
