@@ -26,16 +26,18 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <config key="leftTableJoinPredicate">
-            <entry key="array-size" type="xint" value="1"/>
+            <entry key="array-size" type="xint" value="2"/>
             <entry key="0" type="xstring" value="Aulas"/>
+            <entry key="1" type="xstring" value="RUT"/>
         </config>
         <config key="rightTableJoinPredicate_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_stringarray"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <config key="rightTableJoinPredicate">
-            <entry key="array-size" type="xint" value="1"/>
+            <entry key="array-size" type="xint" value="2"/>
             <entry key="0" type="xstring" value="mcm_short_name"/>
+            <entry key="1" type="xstring" value="mcu_user_rut"/>
         </config>
         <config key="compositionMode_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
@@ -129,12 +131,12 @@
             <config key="included_names">
                 <entry key="array-size" type="xint" value="2"/>
                 <entry key="0" type="xstring" value="mcm_id_moodle"/>
-                <entry key="1" type="xstring" value="mcm_course_name"/>
+                <entry key="1" type="xstring" value="mcu_user_rut"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="6"/>
-                <entry key="0" type="xstring" value="mcm_id"/>
-                <entry key="1" type="xstring" value="mcm_short_name"/>
+                <entry key="0" type="xstring" value="mcm_short_name"/>
+                <entry key="1" type="xstring" value="mcm_id"/>
                 <entry key="2" type="xstring" value="mcm_start_date"/>
                 <entry key="3" type="xstring" value="mcm_end_date"/>
                 <entry key="4" type="xstring" value="mcm_course_type"/>
@@ -151,7 +153,6 @@
                 <config key="typelist">
                     <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.time.localdate.LocalDateValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
@@ -181,7 +182,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 474, Cols: 7"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 277, Cols: 7"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -205,6 +206,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="89ba22ea-0c54-4e5b-aed2-d48a0113321f"/>
+        <entry key="file_store_id" type="xstring" value="f9083578-1da4-41ef-892f-8a441279d94c"/>
     </config>
 </config>

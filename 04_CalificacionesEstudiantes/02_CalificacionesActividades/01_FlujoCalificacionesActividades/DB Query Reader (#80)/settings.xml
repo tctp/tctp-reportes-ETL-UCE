@@ -6,7 +6,7 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="sql_statement" type="xstring" value="SELECT * FROM `UCE`.`ma_cursos_moodle`;"/>
+        <entry key="sql_statement" type="xstring" value="SELECT mcm.mcm_id_moodle, mcm.mcm_short_name, mcu.mcu_user_rut %%00010FROM ma_cursos_moodle mcm %%00010INNER JOIN mv_cursos_usuarios mcu ON mcm.mcm_id_moodle = mcu.mcu_course_id %%00010WHERE mcm.mcm_short_name NOT LIKE '%CURSO0%'"/>
         <config key="external_to_knime_mapping_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -34,12 +34,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 52, Cols: 8"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 5430, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e35f1d3c-8629-4f03-a010-033f45c800aa"/>
+        <entry key="file_store_id" type="xstring" value="96ff8ab4-c2f5-46ea-b9c5-f838a4f920f7"/>
     </config>
 </config>

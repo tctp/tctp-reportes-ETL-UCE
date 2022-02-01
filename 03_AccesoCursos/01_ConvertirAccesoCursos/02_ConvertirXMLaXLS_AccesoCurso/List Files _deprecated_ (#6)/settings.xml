@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="extensions" type="xstring" value="xml"/>
-        <entry key="file_location" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\AccesoPlataforma\ReporteMegatutorAccesos"/>
+        <entry key="file_location" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos"/>
         <entry key="list_recursive" type="xboolean" value="false"/>
         <entry key="filter_panel_settings" type="xstring" value="Extensions"/>
         <entry key="case_sensitive" type="xboolean" value="false"/>
@@ -39,6 +39,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="060c7e2c-bf96-4454-ae3d-8e19338fb52a"/>
+        <entry key="file_store_id" type="xstring" value="97cdbfab-7108-41ca-ade0-f8e6ad1133af"/>
     </config>
 </config>

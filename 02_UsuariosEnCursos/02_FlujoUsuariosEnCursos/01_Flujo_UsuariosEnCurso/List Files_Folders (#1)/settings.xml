@@ -6,8 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
-        <entry key="include_root_folder" type="xboolean" value="false"/>
         <config key="file_chooser_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -25,7 +23,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/UsuariosMatriculados/XML"/>
+                <entry key="path" type="xstring" value="/tctp-reportes-ETL-UCE/Inputs/UsuariosMatriculados/XML"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -53,6 +51,8 @@
                 </config>
             </config>
         </config>
+        <entry key="add_folder_identifier_column" type="xboolean" value="false"/>
+        <entry key="include_root_folder" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -85,6 +85,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c1e62c80-d78b-4d21-b87e-059a6a305eb2"/>
+        <entry key="file_store_id" type="xstring" value="8e661cb7-5588-4759-b0a0-ebeae296dabb"/>
     </config>
 </config>

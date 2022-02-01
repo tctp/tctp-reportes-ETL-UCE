@@ -8,8 +8,8 @@
     <config key="model">
         <config key="expressions">
             <config key="element 0">
-                <entry key="expression" type="xstring" value="if(column(&quot;Motivo&quot;) != null) {%%00010    &quot;RV&quot;;    %%00010} else {%%00010    column(&quot;meu_status_uce&quot;);%%00010}%%00010"/>
-                <entry key="outputName" type="xstring" value="meu_status_uce"/>
+                <entry key="expression" type="xstring" value="if(column(&quot;Motivo&quot;) != null) {%%00010    &quot;RV&quot;;%%00010} else {%%00010    column(&quot;meu_user_status&quot;);%%00010}%%00010"/>
+                <entry key="outputName" type="xstring" value="meu_user_status"/>
                 <config key="outputType">
                     <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <entry key="is_null" type="xboolean" value="false"/>
@@ -25,10 +25,10 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Expresiones"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="727"/>
-        <entry key="y-coordinate" type="xint" value="379"/>
-        <entry key="width" type="xint" value="106"/>
-        <entry key="height" type="xint" value="15"/>
+        <entry key="x-coordinate" type="xint" value="581"/>
+        <entry key="y-coordinate" type="xint" value="399"/>
+        <entry key="width" type="xint" value="118"/>
+        <entry key="height" type="xint" value="17"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
         <entry key="borderSize" type="xint" value="0"/>
         <entry key="borderColor" type="xint" value="16777215"/>
@@ -57,12 +57,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 5141, Cols: 14"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 5141, Cols: 19"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="89130592-c581-4ad4-9abc-e180ea0bcf55"/>
+        <entry key="file_store_id" type="xstring" value="cc197604-7c52-4bd4-be92-0c55adfdc2d1"/>
     </config>
 </config>

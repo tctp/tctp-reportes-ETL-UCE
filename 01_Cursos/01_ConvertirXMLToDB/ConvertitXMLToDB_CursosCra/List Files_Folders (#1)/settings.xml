@@ -23,7 +23,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="/ProyectoReportesCra/Inputs/CursosCra"/>
+                <entry key="path" type="xstring" value="/tctp-reportes-ETL-UCE/Inputs/CursosCra"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -85,6 +85,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e6856c7b-417a-448f-b73c-a08a78f74bce"/>
+        <entry key="file_store_id" type="xstring" value="39e54835-4a8f-4028-bd89-e70f3fe292e1"/>
     </config>
 </config>

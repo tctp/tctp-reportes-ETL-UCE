@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="db_session">
     <config key="Session Info">
-        <entry key="sessionID" type="xstring" value="10e329d0-9d72-4834-93f5-53c523d2f929"/>
+        <entry key="sessionID" type="xstring" value="8920eb15-58b8-4382-8734-37b87823c1c4"/>
         <entry key="dbTypeId" type="xstring" value="mysql"/>
         <entry key="dialectId" type="xstring" value="mysql"/>
         <entry key="dbURL" type="xstring" value="jdbc:mysql://localhost:3306/UCE"/>
@@ -20,6 +20,7 @@
     </config>
     <config key="Attributes">
         <config key="java.lang.Boolean">
+            <entry key="knime.db.connection.reconnect" type="xboolean" value="true"/>
             <entry key="knime.db.agent.writer.fail_on_missing_in_where_clause" type="xboolean" value="false"/>
         </config>
     </config>
