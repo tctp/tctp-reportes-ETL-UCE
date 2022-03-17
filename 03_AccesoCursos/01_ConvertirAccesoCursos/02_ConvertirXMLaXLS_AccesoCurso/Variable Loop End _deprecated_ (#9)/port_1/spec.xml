@@ -12,191 +12,287 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="31"/>
+                <entry key="array-size" type="xint" value="47"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_1.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_1.xlsx"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_11.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_10.xlsx"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_29.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_11.xlsx"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_22.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_12.xlsx"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_20.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_13.xlsx"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_21.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_14.xlsx"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_26.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_15.xlsx"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_28.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_16.xlsx"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_12.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_17.xlsx"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_14.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_18.xlsx"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_2.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_19.xlsx"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_10.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_2.xlsx"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_8.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_20.xlsx"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_21.xlsx"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_19.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_22.xlsx"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_27.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_23.xlsx"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_18.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_24.xlsx"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_15.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_25.xlsx"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_30.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_26.xlsx"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_27.xlsx"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_28.xlsx"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_31.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_29.xlsx"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_23.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_3.xlsx"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_3.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_30.xlsx"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_31.xlsx"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_25.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_32.xlsx"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_33.xlsx"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_13.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_34.xlsx"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_17.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_35.xlsx"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_16.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_36.xlsx"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xlsx"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_37.xlsx"/>
+                    </config>
+                </config>
+                <config key="31">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_38.xlsx"/>
+                    </config>
+                </config>
+                <config key="32">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_39.xlsx"/>
+                    </config>
+                </config>
+                <config key="33">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_4.xlsx"/>
+                    </config>
+                </config>
+                <config key="34">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_40.xlsx"/>
+                    </config>
+                </config>
+                <config key="35">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_41.xlsx"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_42.xlsx"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_43.xlsx"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_44.xlsx"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_45.xlsx"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_46.xlsx"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_47.xlsx"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_5.xlsx"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_6.xlsx"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_7.xlsx"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_8.xlsx"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_9.xlsx"/>
                     </config>
                 </config>
             </config>
@@ -222,7 +318,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="30"/>
+                    <entry key="IntCell" type="xint" value="46"/>
                 </config>
             </config>
         </config>
@@ -241,13 +337,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="31"/>
+                    <entry key="IntCell" type="xint" value="47"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="31"/>
+                    <entry key="IntCell" type="xint" value="47"/>
                 </config>
             </config>
         </config>
@@ -264,191 +360,287 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="31"/>
+                <entry key="array-size" type="xint" value="47"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_1.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_1.xml"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_11.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_10.xml"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_29.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_11.xml"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_22.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_12.xml"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_20.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_13.xml"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_21.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_14.xml"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_26.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_15.xml"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_28.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_16.xml"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_12.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_17.xml"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_14.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_18.xml"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_2.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_19.xml"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_10.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_2.xml"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_8.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_20.xml"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_21.xml"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_19.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_22.xml"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_27.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_23.xml"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_18.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_24.xml"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_15.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_25.xml"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_30.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_26.xml"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_27.xml"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_28.xml"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_31.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_29.xml"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_23.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_3.xml"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_3.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_30.xml"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_31.xml"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_25.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_32.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_33.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_13.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_34.xml"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_17.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_35.xml"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_16.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_36.xml"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xml"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_37.xml"/>
+                    </config>
+                </config>
+                <config key="31">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_38.xml"/>
+                    </config>
+                </config>
+                <config key="32">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_39.xml"/>
+                    </config>
+                </config>
+                <config key="33">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_4.xml"/>
+                    </config>
+                </config>
+                <config key="34">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_40.xml"/>
+                    </config>
+                </config>
+                <config key="35">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_41.xml"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_42.xml"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_43.xml"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_44.xml"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_45.xml"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_46.xml"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_47.xml"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_5.xml"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_6.xml"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_7.xml"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_8.xml"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_9.xml"/>
                     </config>
                 </config>
             </config>
@@ -466,191 +658,287 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="31"/>
+                <entry key="array-size" type="xint" value="47"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_1.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_1.xml"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_11.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_10.xml"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_29.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_11.xml"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_22.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_12.xml"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_20.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_13.xml"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_21.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_14.xml"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_26.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_15.xml"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_28.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_16.xml"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_12.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_17.xml"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_14.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_18.xml"/>
                     </config>
                 </config>
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_2.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_19.xml"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_10.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_2.xml"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_8.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_20.xml"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_21.xml"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_19.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_22.xml"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_27.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_23.xml"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_18.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xml"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_15.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_25.xml"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_30.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_26.xml"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_27.xml"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_28.xml"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_31.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_29.xml"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_23.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_3.xml"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_3.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_30.xml"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_31.xml"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_25.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_32.xml"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_33.xml"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_13.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_34.xml"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_17.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_35.xml"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_16.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_36.xml"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xml"/>
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_37.xml"/>
+                    </config>
+                </config>
+                <config key="31">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_38.xml"/>
+                    </config>
+                </config>
+                <config key="32">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_39.xml"/>
+                    </config>
+                </config>
+                <config key="33">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_4.xml"/>
+                    </config>
+                </config>
+                <config key="34">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_40.xml"/>
+                    </config>
+                </config>
+                <config key="35">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_41.xml"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_42.xml"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_43.xml"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_44.xml"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_45.xml"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_46.xml"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_47.xml"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_5.xml"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_6.xml"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_7.xml"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_8.xml"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>
                     </config>
                 </config>
             </config>
@@ -668,7 +956,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="31"/>
+                <entry key="array-size" type="xint" value="47"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -855,6 +1143,102 @@
                         <entry key="StringCell" type="xstring" value="Row30"/>
                     </config>
                 </config>
+                <config key="31">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row31"/>
+                    </config>
+                </config>
+                <config key="32">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row32"/>
+                    </config>
+                </config>
+                <config key="33">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row33"/>
+                    </config>
+                </config>
+                <config key="34">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row34"/>
+                    </config>
+                </config>
+                <config key="35">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row35"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row36"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row37"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row38"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row39"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row40"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row41"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row42"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row43"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row44"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row45"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Row46"/>
+                    </config>
+                </config>
             </config>
         </config>
         <config key="column_properties"/>
@@ -874,7 +1258,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/home/knime/knime-workspace"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace"/>
                     </config>
                 </config>
             </config>

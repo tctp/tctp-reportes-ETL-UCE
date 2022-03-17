@@ -42,31 +42,31 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row31"/>
+            <entry key="value" type="xstring" value="Row42"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="URL"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/ProyectoReportesCra/Inputs/Situación%20final/file_9.xml"/>
+            <entry key="value" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/Situación%20final/file_9.xml"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Location"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\ProyectoReportesCra\Inputs\Situación final\file_9.xml"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\Situación final\file_9.xml"/>
         </config>
         <config key="Variable_10">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="32"/>
+            <entry key="value" type="xint" value="43"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="31"/>
+            <entry key="value" type="xint" value="42"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -123,6 +123,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="830a3fb7-ffdf-4327-8391-1f1547afd30e"/>
+        <entry key="file_store_id" type="xstring" value="40d8e971-cb2c-4f8f-be5e-d02ab03127f6"/>
     </config>
 </config>

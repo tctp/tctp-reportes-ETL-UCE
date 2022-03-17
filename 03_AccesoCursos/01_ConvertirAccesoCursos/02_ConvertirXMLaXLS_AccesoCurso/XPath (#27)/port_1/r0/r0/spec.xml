@@ -27,7 +27,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="values0.5828541901277637"/>
+        <entry key="column_name" type="xstring" value="values0.8100784283602023"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -42,7 +42,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_3">
-        <entry key="column_name" type="xstring" value="value_names0.8003815078382599"/>
+        <entry key="column_name" type="xstring" value="value_names0.3977285661056018"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>

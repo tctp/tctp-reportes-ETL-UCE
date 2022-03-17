@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="db_session">
     <config key="Session Info">
-        <entry key="sessionID" type="xstring" value="710fe9f2-5c2c-49cc-8c1a-fca07d7c75a5"/>
+        <entry key="sessionID" type="xstring" value="63f28cfc-5d8b-43dc-a623-9e2f9c06e9eb"/>
         <entry key="dbTypeId" type="xstring" value="mysql"/>
         <entry key="dialectId" type="xstring" value="mysql"/>
         <entry key="dbURL" type="xstring" value="jdbc:mysql://localhost:3306/UCE"/>
         <entry key="authenticationType" type="xstring" value="USER_PWD"/>
         <entry key="dbUser" type="xstring" value="yromero"/>
-        <entry key="dbPassword" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj15iQ7rIbtFveU6Qew=="/>
+        <entry key="dbPassword" type="xpassword" value="02BwAAAGMq_QxveL1vZ0EBjwJHx3GQQRpMPIL1"/>
         <entry key="host" type="xstring" value="localhost"/>
     </config>
     <config key="Driver Definition">

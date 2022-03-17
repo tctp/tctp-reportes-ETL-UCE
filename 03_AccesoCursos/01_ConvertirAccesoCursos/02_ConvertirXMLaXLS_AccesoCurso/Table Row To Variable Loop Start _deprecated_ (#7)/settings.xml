@@ -42,31 +42,31 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row30"/>
+            <entry key="value" type="xstring" value="Row46"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="URL"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="file:/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xml"/>
+            <entry key="value" type="xstring" value="file:/C:/Users/Yerffrey%20Romero/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_9.xml"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Location"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos/file_24.xml"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos\file_9.xml"/>
         </config>
         <config key="Variable_10">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="31"/>
+            <entry key="value" type="xint" value="47"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="30"/>
+            <entry key="value" type="xint" value="46"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -123,6 +123,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5789bd3f-07d3-43b2-8af2-a596ad5af01c"/>
+        <entry key="file_store_id" type="xstring" value="0e3b9899-869b-4ca9-8aa7-24b8f5e5e91b"/>
     </config>
 </config>

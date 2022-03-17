@@ -93,7 +93,7 @@
                 <path d="M401 268 L436 268 L436 279 L401 279 L401 268 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
-                <path d="M-1 -1 L1536 -1 L1536 750 L-1 750 L-1 -1 Z"/>
+                <path d="M-1 -1 L1617 -1 L1617 810 L-1 810 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g stroke-miterlimit="0" stroke-width="0"
@@ -703,18 +703,18 @@ YII=" xlink:actuate="onLoad"/>
         <g fill="rgb(150,150,150)" text-rendering="optimizeLegibility"
            font-family="&apos;Segoe UI&apos;" stroke-linecap="butt"
            stroke="rgb(150,150,150)">
-            <line clip-path="url(#clipPath27)" fill="none" x1="238" x2="246"
-                  y1="273" y2="273"/>
-            <line clip-path="url(#clipPath27)" fill="none" x1="246" x2="359"
-                  y1="273" y2="273"/>
-            <line clip-path="url(#clipPath27)" fill="none" x1="359" x2="367"
-                  y1="273" y2="273"/>
             <line clip-path="url(#clipPath27)" fill="none" x1="78" x2="86"
                   y1="153" y2="153"/>
             <line clip-path="url(#clipPath27)" fill="none" x1="86" x2="179"
                   y1="153" y2="273"/>
             <line clip-path="url(#clipPath27)" fill="none" x1="179" x2="187"
                   y1="273" y2="273"/>
+            <line clip-path="url(#clipPath27)" fill="none" x1="238" x2="246"
+                  y1="273" y2="273" stroke="rgb(75,75,75)" stroke-width="2"/>
+            <line clip-path="url(#clipPath27)" fill="none" x1="246" x2="359"
+                  y1="273" y2="273" stroke="rgb(75,75,75)" stroke-width="2"/>
+            <line clip-path="url(#clipPath27)" fill="none" x1="359" x2="367"
+                  y1="273" y2="273" stroke="rgb(75,75,75)" stroke-width="2"/>
             <line clip-path="url(#clipPath27)" fill="none" x1="238" x2="246"
                   y1="53" y2="53"/>
             <line clip-path="url(#clipPath27)" fill="none" x1="246" x2="359"

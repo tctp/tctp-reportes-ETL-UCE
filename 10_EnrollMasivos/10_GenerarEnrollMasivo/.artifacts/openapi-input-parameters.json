@@ -1,0 +1,12 @@
+
+{
+    "type": "object",
+    "properties": {
+        "int-input-92": {
+            "type": "integer",
+            "default": 3,
+            "description": "Enter Description",
+            "example": 3
+        }
+    }
+}

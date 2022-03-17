@@ -60,7 +60,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="FileNewPath"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/CursosCra\file_9_output_10.xml"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\CursosCra\file_9_output_10.xml"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
@@ -181,6 +181,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0d427dad-f2fa-472f-984d-c28fe5758ea5"/>
+        <entry key="file_store_id" type="xstring" value="14c274c4-ddd0-411c-8b55-131fbd06f354"/>
     </config>
 </config>

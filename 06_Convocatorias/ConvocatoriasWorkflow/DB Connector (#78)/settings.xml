@@ -21,7 +21,7 @@
         <config key="authentication">
             <entry key="credentials" type="xstring" isnull="true" value=""/>
             <entry key="username" type="xstring" value="yromero"/>
-            <entry key="password" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj15iQ7rIbtFveU6Qew=="/>
+            <entry key="password" type="xpassword" value="02BwAAAGMq_QxveL1vZ0EBjwJHx3GQQRpMPIL1"/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
@@ -929,7 +929,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 84388d2c-bfd4-49d6-837b-f49e8ce2f0d7"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL c5b9511a-0a8b-42ce-8dff-48487fa6103e"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -937,6 +937,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="eb1bf98f-7440-4618-9df6-4591e741f11b"/>
+        <entry key="file_store_id" type="xstring" value="99e2f38c-7d50-4ce9-b7fa-33c0ad7b21ce"/>
     </config>
 </config>

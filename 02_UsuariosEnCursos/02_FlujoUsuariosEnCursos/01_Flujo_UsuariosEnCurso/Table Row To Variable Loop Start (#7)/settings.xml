@@ -42,25 +42,25 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="51"/>
+            <entry key="value" type="xint" value="65"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="50"/>
+            <entry key="value" type="xint" value="64"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row50"/>
+            <entry key="value" type="xstring" value="Row64"/>
         </config>
         <config key="Variable_10">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="FileNewPath"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/UsuariosMatriculados/XML\file_9_output_50.xml"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\UsuariosMatriculados\XML\file_9_output_64.xml"/>
         </config>
         <config key="Variable_11">
             <entry key="type" type="xstring" value="variable"/>
@@ -181,6 +181,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="4c80b38d-4978-474a-8d44-8b88e69438cd"/>
+        <entry key="file_store_id" type="xstring" value="989c7091-fdad-4ac2-b3dd-8d80a38b7768"/>
     </config>
 </config>

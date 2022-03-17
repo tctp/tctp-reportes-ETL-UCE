@@ -6,7 +6,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="VNJQSUNP"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="02CAAAAGMq_QxveL1vZ0EBj15iQ7rIbtFveU6Qew=="/>
+            <entry key="value" type="xstring" value="02BwAAAGMq_QxveL1vZ0EBjwJHx3GQQRpMPIL1"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
@@ -60,7 +60,7 @@
         <config key="authentication">
             <entry key="credentials" type="xstring" isnull="true" value=""/>
             <entry key="username" type="xstring" value="yromero"/>
-            <entry key="password" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj15iQ7rIbtFveU6Qew=="/>
+            <entry key="password" type="xpassword" value="02BwAAAGMq_QxveL1vZ0EBjwJHx3GQQRpMPIL1"/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
@@ -1011,7 +1011,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="MySQL 068730e1-b48a-4bfb-91f4-c3cec276f94f"/>
+            <entry key="port_object_summary" type="xstring" value="MySQL 36dbfabf-bcfd-4cbb-8463-029244aa69c6"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -1019,6 +1019,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="4501d787-c895-4726-b205-8e3c683665df"/>
+        <entry key="file_store_id" type="xstring" value="756177e6-0df9-4b9c-a8c1-84cca9589616"/>
     </config>
 </config>

@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="extensions" type="xstring" value="xml"/>
-        <entry key="file_location" type="xstring" value="/home/knime/knime-workspace/tctp-reportes-ETL-UCE/Inputs/AccesoPlataforma/ReporteMegatutorAccesos"/>
+        <entry key="file_location" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Inputs\AccesoPlataforma\ReporteMegatutorAccesos"/>
         <entry key="list_recursive" type="xboolean" value="false"/>
         <entry key="filter_panel_settings" type="xstring" value="Extensions"/>
         <entry key="case_sensitive" type="xboolean" value="false"/>
@@ -33,12 +33,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 31, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 47, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="97cdbfab-7108-41ca-ade0-f8e6ad1133af"/>
+        <entry key="file_store_id" type="xstring" value="1a5992e9-441a-4cad-8041-5fe67688cba5"/>
     </config>
 </config>
