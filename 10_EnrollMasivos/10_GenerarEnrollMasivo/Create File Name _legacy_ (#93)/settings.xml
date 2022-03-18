@@ -6,7 +6,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="filePath"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\2.csv"/>
+            <entry key="value" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\A\2.csv"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -17,7 +17,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="BaseDir" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos"/>
+        <entry key="BaseDir" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\A"/>
         <config key="FileName_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="false"/>

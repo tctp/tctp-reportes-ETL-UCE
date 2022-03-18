@@ -16,19 +16,19 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\0.csv"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\A\0.csv"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\1.csv"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\A\1.csv"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\2.csv"/>
+                        <entry key="StringCell" type="xstring" value="C:\Users\Yerffrey Romero\knime-workspace\tctp-reportes-ETL-UCE\Outputs\EnrollMasivos\A\2.csv"/>
                     </config>
                 </config>
             </config>

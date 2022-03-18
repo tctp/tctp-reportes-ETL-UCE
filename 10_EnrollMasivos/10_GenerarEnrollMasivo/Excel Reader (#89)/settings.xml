@@ -416,7 +416,7 @@
                 <config key="excel_reader">
                     <config key="settings">
                         <entry key="sheet_selection" type="xstring" value="FIRST"/>
-                        <entry key="sheet_name" type="xstring" value="Curso B"/>
+                        <entry key="sheet_name" type="xstring" value="Curso A c3"/>
                         <entry key="sheet_index" type="xint" value="0"/>
                         <entry key="table_contains_column_names" type="xboolean" value="true"/>
                         <entry key="column_names_row_number" type="xlong" value="1"/>
@@ -518,6 +518,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e57e606f-2bd2-48c9-b01a-7cbaf92581a6"/>
+        <entry key="file_store_id" type="xstring" value="0e614a45-eff6-4155-a115-86fc99dc4843"/>
     </config>
 </config>

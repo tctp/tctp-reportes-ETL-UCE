@@ -30,19 +30,19 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="maxIterations"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="43"/>
+            <entry key="value" type="xint" value="17"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="currentIteration"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="0"/>
+            <entry key="value" type="xint" value="16"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="RowID"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row0"/>
+            <entry key="value" type="xstring" value="Row16"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
@@ -51,7 +51,7 @@
             <entry key="location_present" type="xboolean" value="true"/>
             <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
             <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="/tctp-reportes-ETL-UCE/Inputs/Situación final/file_1.xlsx"/>
+            <entry key="path" type="xstring" value="/tctp-reportes-ETL-UCE/Inputs/SituacionFinal/file_9.xlsx"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -155,6 +155,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3cd3ead6-0187-47b0-8db3-41bc35025524"/>
+        <entry key="file_store_id" type="xstring" value="2cf98e97-58f9-4591-b95a-4065ba4f0e05"/>
     </config>
 </config>

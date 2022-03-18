@@ -128,7 +128,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="10797"/>
+                        <entry key="StringCell" type="xstring" value="10799"/>
                     </config>
                 </config>
             </config>
@@ -150,7 +150,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso G - Decisiones basadas en evidencia para la mejora de la biblioteca escolar-Aula 2"/>
+                        <entry key="StringCell" type="xstring" value="Plan de formación; Curso B: Organización, catalogación y circulación de recursos de la biblioteca escolar - Aula 1"/>
                     </config>
                 </config>
             </config>
@@ -172,7 +172,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/course/view.php?id=10797"/>
+                        <entry key="StringCell" type="xstring" value="/course/view.php?id=10799"/>
                     </config>
                 </config>
             </config>

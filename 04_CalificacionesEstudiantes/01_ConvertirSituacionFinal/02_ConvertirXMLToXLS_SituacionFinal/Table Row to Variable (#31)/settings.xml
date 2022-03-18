@@ -24,7 +24,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="CursoId"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="10802"/>
+            <entry key="value" type="xstring" value="10890"/>
         </config>
     </config>
     <config key="internal_node_subsettings">

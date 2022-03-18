@@ -22,11 +22,9 @@
                 <entry key="0" type="xstring" value="FileNewPath"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="4"/>
+                <entry key="array-size" type="xint" value="2"/>
                 <entry key="0" type="xstring" value="URI"/>
-                <entry key="1" type="xstring" value="RowID (#1)"/>
-                <entry key="2" type="xstring" value="workspace"/>
-                <entry key="3" type="xstring" value="RowID"/>
+                <entry key="1" type="xstring" value="RowID"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -36,11 +34,6 @@
                 <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
         </config>
-        <config key="suffix_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="suffix" type="xstring" value="_location"/>
         <config key="file_system_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_file_system"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -60,6 +53,11 @@
                 <entry key="file_system_type" type="xstring" value="LOCAL"/>
             </config>
         </config>
+        <config key="suffix_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="suffix" type="xstring" value="_location"/>
         <config key="fail_on_missing_file_folder_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>

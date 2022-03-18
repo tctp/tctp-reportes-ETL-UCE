@@ -93,7 +93,7 @@
                 <path d="M401 268 L436 268 L436 279 L401 279 L401 268 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
-                <path d="M-1 -1 L1497 -1 L1497 690 L-1 690 L-1 -1 Z"/>
+                <path d="M-1 -1 L1515 -1 L1515 622 L-1 622 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g stroke-miterlimit="0" stroke-width="0"
@@ -705,13 +705,13 @@ YII=" xlink:actuate="onLoad"/>
            font-family="&apos;Segoe UI&apos;" stroke="rgb(150,150,150)"
            stroke-width="2">
             <path fill="none"
-                  d="M78 153 C80 153 84 153 86 153 C131 153 134 273 179 273 C181 273 185 273 187 273"
+                  d="M238 53 C240 53 244 53 246 53 C279 53 326 53 359 53 C361 53 365 53 367 53"
                   clip-path="url(#clipPath27)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M78 153 C80 153 84 153 86 153 C126 153 139 53 179 53 C181 53 185 53 187 53"
                   clip-path="url(#clipPath27)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M238 53 C240 53 244 53 246 53 C279 53 326 53 359 53 C361 53 365 53 367 53"
+                  d="M78 153 C80 153 84 153 86 153 C131 153 134 273 179 273 C181 273 185 273 187 273"
                   clip-path="url(#clipPath27)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M238 273 C240 273 244 273 246 273 C279 273 326 273 359 273 C361 273 365 273 367 273"
